@@ -13,6 +13,7 @@ Vote daily at server lists for rewards! Visit the links below and enter your Min
 
 ## Links
 
+- [Discord](https://disc.datblock.com)
 - [Subreddit](https://reddit.com/r/Datblock)
 - [Twitter](https://twitter.com/PlayDatblockCom)
 
