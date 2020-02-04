@@ -8,7 +8,7 @@ Rules are in place to ensure a fair and enjoyable experience for everyone. Rules
 
 ## Skyblock
 
-## Griefing
+## Creative
 
 ## Datearth
 
