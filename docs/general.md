@@ -11,5 +11,10 @@ Vote daily at server lists for rewards! Visit the links below and enter your Min
 - [Minecraft-Server.net](https://minecraft-server.net/vote/Datblock/)
 - [Minecraft-Server-List.com](https://minecraft-server-list.com/server/440455/vote/)
 
+## Links
+
+- [Subreddit](https://reddit.com/r/Datblock)
+- [Twitter](https://twitter.com/PlayDatblockCom)
+
 
 
