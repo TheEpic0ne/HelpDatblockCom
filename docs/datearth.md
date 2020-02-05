@@ -1,6 +1,8 @@
 # Datearth
 _This page is a work in progress. What is currently written may not be accurate._
 
+View a map of Gladia at [gladia.datearth.com](https://gladia.datearth.com) and a map of Nova at [nova.datearth.com](https://nova.datearth.com).
+
 ## Towns
 
 You can create a new town with `/t new` for $2000. A town can claim territory with `/t claim` for $200 per chunk. Residents are protected from outsiders in the town's territory unless their nation is at war. You can view all town commands with `/t ?`.
