@@ -4,7 +4,7 @@ _This page is a work in progress. What is currently written may not be the final
 
 ### Sieging
 
-As a king or general, place a coloured banner in the wilderness close to a town. This action will initiate a new siege, or cause the attacker to join an existing one. The upfront cost of the siege for the attacker is $500.
+As a king or general, place a coloured banner in the wilderness close to a town to initiate a siege. Starting a siege will cost the attacking nation $1000. This money will be recovered by the siege winner.
 
 #### Gaining siege points
 As an attacker (soldier/general/king) or a defender (guard/sheriff/mayor), occupy the wilderness area close to the siege banner and/or kill enemy players within a large radius of the siege banner. Allies can contribute.
