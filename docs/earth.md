@@ -1,11 +1,5 @@
 # War
 
-* **A nation can initiate a siege against a town at any time** _(but new towns are immune, as are recently besieged towns)_
-* **All buildings remain undamaged** _(because town build perms and town leadership structures are completely unaffected)_
-* **Towns can be captured** _(allowing nations/empires to to built by force)_
-* **Towns can be plundered** _(transferring wealth from the defeated town to the victorious nation)_
-* **Casual & cross-timezone players can contribute to most wars** _(because sieges are of moderate duration, typically 3 days)_
-
 ## Sieging
 
 As a king or general, place a coloured banner in the wilderness close to a town. This action will initiate a new siege, or cause the attacker to join an existing one. The upfront cost of the siege for the attacker is $500.
