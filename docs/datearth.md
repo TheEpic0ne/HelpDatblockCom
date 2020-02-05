@@ -6,7 +6,7 @@ _This page is a work in progress. What is currently written may not be the final
 
 As a king or general, place a coloured banner in the wilderness close to a town to initiate a siege. Starting a siege will cost the attacking nation $1500. This money will be recovered by the siege winner.
 
-#### Scoring
+#### Score
 
 The town under siege has a score shown in `/t` that will determine the siege winner. The attacker requires a positive score to win and the defender requires a negative score to win. A siege lasts 3 days unless the attacker or defender surrenders. 
 
