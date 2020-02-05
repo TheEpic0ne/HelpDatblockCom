@@ -28,17 +28,14 @@ View detailed information on any siege affecting the town, using `/t`.
 
 View a list of any sieges the nation is involved in, using `/n`.
 
+### Town revolt
 As a mayor, when a certain duration has passed after an invasion, typically many days, the town can revolt and be free of the occupying nation. This is done using `/n leave`.
 
+### Nation deletion
 As a king, if your nation gets deleted for any reason, including capture of your last town, you will be refunded 90% of the initial setup cost. This can be triggered voluntarily using `/n delete`.
 
-As a mayor, declare your town to be neutral using `/t toggle neutral`. A neutral town cannot voluntarily join any nation and is immune to material siege costs (pvp, plunder, taxes). Attackers can still invade if they manage to defeat the town, but the occupation is in-name-only, with no material benefits provided (except to increase nation town count).
-
-## Town neutrality
-
-A neutral town is protected from siege-forced-pvp, plunder, and occupation taxes. The neutral town can be captured, adding to an invading nation's town count, but the occupation is in-name only.
-
-As a mayor, declare your town to be neutral using `/t toggle neutral`. A neutral town cannot voluntarily join any nation
+### Town neutrality
+As a mayor, declare your town to be neutral using `/t toggle neutral`. A neutral town cannot voluntarily join any nation and is immune to siege-forced-pvp, plunder, and occupation taxes. Attackers can still invade if they manage to defeat the town, but the occupation is in-name-only, with no material benefits provided except to increase nation town count.
 
 ## War ranks
 
