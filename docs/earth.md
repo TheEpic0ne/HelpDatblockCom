@@ -1,16 +1,8 @@
 # War
 
-
-
-The upfront cost of the siege for the attacker is $500.
-Is a siege is successful, $500 per plot in the sieged town is plundered.
-If a nation falls, the creator the fallen nation is refunded 75% of the initial nation cost.
-
-New towns are immune against sieging for ?? hours.
-
 ## Sieging
 
-As a king or general, place a coloured banner in the wilderness close to a town. This action will initiate a new siege, or cause the attacker to join an existing one.
+As a king or general, place a coloured banner in the wilderness close to a town. This action will initiate a new siege, or cause the attacker to join an existing one. The upfront cost of the siege for the attacker is $500.
 
 ### Gaining siege points
 As an attacker (soldier/general/king) or a defender (guard/sheriff/mayor), occupy the wilderness area close to the siege banner and/or kill enemy players within a large radius of the siege banner. Allies can contribute.
@@ -25,7 +17,7 @@ As a king or general, place an all-white banner near the siege-attack-banner.
 As a mayor, place an all-white banner anywhere in the town.
 
 ### Plunder town
-As a king or general, after the siege is won, place a chest in the wilderness close to the town. This action will rob the town of some gold, transferring it to the plundering nation.
+As a king or general, after the siege is won, place a chest in the wilderness close to the town. This action will rob the town $500 per plot, transferring it to the plundering nation.
 
 ### Capturing town
 As a king or general, after the siege is won, place a coloured banner in the wilderness close to the town. This action will forcibly add the town to the nation, and will put the town into an 'occupied' state, in which its residents cannot affect siege points. 
@@ -43,3 +35,9 @@ Soldier
 General
 
 When a town 
+
+
+If a nation falls, the creator the fallen nation is refunded 75% of the initial nation cost.
+
+New towns are immune against sieging for ?? hours.
+
