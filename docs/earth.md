@@ -37,16 +37,23 @@ As a mayor, when a certain duration has passed after an invasion, typically many
 ### Nation deletion
 As a king, if your nation gets deleted for any reason, including capture of your last town, you will be refunded 90% of the initial setup cost. This can be triggered voluntarily using `/n delete`.
 
-## War ranks
+## War Tips
 
-Soldier
+### Fortify towns
+Walls are important. During sieges they help stop enemies from infiltrating towns and killing residents.
 
-General
+### Fortify or abandon outposts
+Outposts are important. Towns can be besieged anywhere they have claimed territory.  Make provisions to defend valuable outposts, and abandon the rest.
 
-When a town 
+### Assign war ranks
+Find residents who can be trusted to fight for your town or nation, and assign them the ranks of guard/sheriff(town) or soldier/general(nation)
 
+### Watch your town bank balance
+As a mayor, keep enough money in the bank for sieges. If a town is plundered of all its gold by a siege attacker, the town will be destroyed, entering a ruined state for some time. During this time the town blocks cannot be reclaimed, but all perms will be enabled.
 
-If a nation falls, the creator the fallen nation is refunded 75% of the initial nation cost.
+**Make friends & allies**
+Diplomacy is critical.  As a mayor, diplomacy can be the difference between your town remaining independant, within a friendly nation, or occupied by an expansionistic empire. As a king, diplomacy can be the difference between your nation succeeding, and its annihilation.
 
-New towns are immune against sieging for ?? hours.
+**You are not entitled to power**
+As a king, your claim to power will be tested. Defend your nation's towns to prove yourself a true nation leader.
 
