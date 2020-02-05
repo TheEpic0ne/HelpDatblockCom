@@ -6,6 +6,6 @@
 New towns are immune against sieging for ?? hours.
 
 
-Solider
+Soldier
 
 General
