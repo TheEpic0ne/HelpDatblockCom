@@ -10,7 +10,7 @@ As a king or general, place a coloured banner in the wilderness close to a town 
 
 The town under siege has a score shown in `/t` that will determine the siege winner. The attacker requires a positive score to win and the defender requires a negative score to win. A siege lasts 3 days unless the attacker or defender surrenders. 
 
-As an attacker or a defender with a military rank, occupy the wilderness area within 16 blocks of the siege banner to increase or decrease the score by 10 points ever 30 seconds occopied or kill enemy players within a 100 block radius of the siege banner to increase or decrease the score by 200 points. Allies with a military rank can contribute.
+As an attacker or a defender with a military rank, occupy the wilderness area within 16 blocks of the siege banner to increase or decrease the score by 10 points every 30 seconds or kill enemy players within a 100 block radius of the siege banner to increase or decrease the score by 200 points. Allies with a military rank can contribute.
 
 #### Winning
 Be the side with the best score when the siege victory timer hits zero. The attacker requires a positive points total to win. The defender requires a negative points total to win.
