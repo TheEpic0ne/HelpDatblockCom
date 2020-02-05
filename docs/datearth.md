@@ -32,7 +32,7 @@ As a mayor, place an all-white banner anywhere in the town to surrender. The def
 As a king or general, after the siege is won, place a chest in the wilderness close to the town. This will rob the town $100 per plot the sieged town has, transferring it to the plundering nation. If the town does not have enough money it will go into a ruined state, where all perms will be enabled. The ruined state persists for 2 days, after which full deletion occurs.
 
 #### Capturing town
-As a king or general, after the siege is won, place a coloured banner in the wilderness close to the town. This action will forcibly add the town to the nation, and will put the town into an 'occupied' state, in which its residents cannot affect siege points. 
+As a king or general, after the siege is won, place a coloured banner in the wilderness close to the town. This action will forcibly add the town to the nation, and will put the town into an 'occupied' state, in which its residents cannot affect siege points in other wars. 
 
 ### Commands
 
