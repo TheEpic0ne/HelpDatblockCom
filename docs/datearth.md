@@ -49,7 +49,7 @@ It takes 7 days to confirm a town neutrality status change after the mayor toggl
 As a mayor, when a 7 days has passed after an invasion, the town can revolt and be free of the occupying nation. This is done using `/n leave`.
 
 #### Nation deletion
-As a king, if your nation gets deleted for any reason, including capture of your last town, you will be refunded 90% of the initial setup cost. This can be triggered voluntarily using `/n delete`.
+As a king, if your nation gets deleted for any reason, including capture of your last town, you will be refunded 90% of the initial cost of creating the nation. This can be triggered voluntarily using `/n delete`.
 
 ### Tips
 
@@ -59,8 +59,8 @@ Walls are important. During sieges they help stop enemies from infiltrating town
 #### Fortify or abandon outposts
 Outposts are important. Towns can be besieged anywhere they have claimed territory.  Make provisions to defend valuable outposts, and abandon the rest.
 
-#### Assign war ranks
-Find residents who can be trusted to fight for your town or nation, and assign them the ranks of guard/sheriff(town) or soldier/general(nation)
+#### Assign military ranks
+Find residents who can be trusted to fight for your town or nation, and assign them the ranks of guard or sheriff in the town or soldier or general in the nation.
 
 #### Watch your town bank balance
 As a mayor, keep enough money in the bank for sieges. If a town is plundered of all its gold by a siege attacker, the town will be destroyed, entering a ruined state for some time. During this time the town blocks cannot be reclaimed, but all perms will be enabled, after which it will be deleted.
