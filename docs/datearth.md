@@ -8,7 +8,7 @@ As a king or general, place a coloured banner in the wilderness close to a town 
 
 #### Score
 
-The town under siege has a score shown in `/t` that will determine the siege winner. The attacker requires a positive score to win and the defender requires a negative score to win. A siege lasts 3 days and has a timer shown in `/t` for the town under siege.
+The town under siege has a score shown in `/t` that will determine the siege winner. The attacker requires a positive score to win and the defender requires a negative score to win. A siege lasts 3 days and a timer is shown in `/t` for the town under siege.
 
 #### Occupying
 As an attacker or a defender with a military rank, occupy the wilderness area within 16 blocks of the siege banner to increase or decrease the score by 10 points every 30 seconds occupied. Allies with a military rank can contribute.
@@ -17,13 +17,13 @@ As an attacker or a defender with a military rank, occupy the wilderness area wi
 As an attacker or a defender with a military rank, kill enemy players within a 100 block radius of the siege banner to increase or decrease the score by 200 points. Allies with a military rank can contribute.
 
 #### Abandon attack
-As a king or general, place an all-white banner near the siege-attack-banner.
+As a king or general, place an all-white banner near the siege-attack-banner to abandon the attack.
 
 #### Surrender town
-As a mayor, place an all-white banner anywhere in the town.
+As a mayor, place an all-white banner anywhere in the town to surrender.
 
 #### Plunder town
-As a king or general, after the siege is won, place a chest in the wilderness close to the town. This action will rob the town $500 per plot, transferring it to the plundering nation.
+As a king or general, after the siege is won, place a chest in the wilderness close to the town. This will rob the town $100 per plot the sieged town has, transferring it to the plundering nation. If the town does not have enough money it will go into a ruined state, where all perms will be enabled. The ruined state persists for 2 day, after which full deletion occurs.
 
 #### Capturing town
 As a king or general, after the siege is won, place a coloured banner in the wilderness close to the town. This action will forcibly add the town to the nation, and will put the town into an 'occupied' state, in which its residents cannot affect siege points. 
