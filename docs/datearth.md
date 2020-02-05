@@ -1,7 +1,7 @@
 # Datearth
 _This page is a work in progress. What is currently written may not be accurate._
 
-Datearth is a geopolitical Minecraft server with a real world earth map where towns and nations strive for power with war and diplomacy. The server is on 1.13.2 but compatible with 1.13.2 to the latest version. 
+Datearth is a geopolitical Minecraft server with a real world earth map where towns and nations strive for power with war and diplomacy. The server is on 1.13.2 but compatible upwards to the latest version. 
 
 ![image](_images/gladia.png)
 
