@@ -1,3 +1,15 @@
+## Towns
+
+### Ranks
+
+### Commands
+
+## Nations
+
+### Ranks
+
+### Commands
+
 ## War
 
 _This page is a work in progress. What is currently written may not be the final design of the war system._
@@ -71,3 +83,10 @@ Diplomacy is critical.  As a mayor, diplomacy can be the difference between your
 #### You are not entitled to power
 As a king, your claim to power will be tested. Defend your nation's towns to prove yourself a true nation leader.
 
+## Economy
+
+### Missions
+
+### Shops
+
+### Trade
