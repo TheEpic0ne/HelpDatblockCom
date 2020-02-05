@@ -63,7 +63,7 @@ Outposts are important. Towns can be besieged anywhere they have claimed territo
 Find residents who can be trusted to fight for your town or nation, and assign them the ranks of guard/sheriff(town) or soldier/general(nation)
 
 #### Watch your town bank balance
-As a mayor, keep enough money in the bank for sieges. If a town is plundered of all its gold by a siege attacker, the town will be destroyed, entering a ruined state for some time. During this time the town blocks cannot be reclaimed, but all perms will be enabled.
+As a mayor, keep enough money in the bank for sieges. If a town is plundered of all its gold by a siege attacker, the town will be destroyed, entering a ruined state for some time. During this time the town blocks cannot be reclaimed, but all perms will be enabled, after which it will be deleted.
 
 #### Make friends & allies
 Diplomacy is critical.  As a mayor, diplomacy can be the difference between your town remaining independant, within a friendly nation, or occupied by an expansionistic empire. As a king, diplomacy can be the difference between your nation succeeding, and its annihilation.
