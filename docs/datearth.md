@@ -39,6 +39,8 @@ View a list of any sieges the nation is involved in, using `/n`.
 #### Town neutrality
 As a mayor, declare your town to be neutral using `/t toggle neutral`. A neutral town cannot voluntarily join any nation and is immune to siege-forced-pvp, plunder, and occupation taxes. Attackers can still invade if they manage to defeat the town, but the occupation is in-name-only, with no material benefits provided except to increase nation town count.
 
+It takes 7 days to confirm a town neutrality status change after the mayor toggles neutrality.
+
 #### Town revolt
 As a mayor, when a 7 days has passed after an invasion, the town can revolt and be free of the occupying nation. This is done using `/n leave`.
 
