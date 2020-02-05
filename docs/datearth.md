@@ -49,7 +49,7 @@ It takes 7 days to confirm a town neutrality status change after the mayor toggl
 As a mayor, when a 7 days has passed after an invasion, the town can revolt and be free of the occupying nation. This is done using `/n leave`.
 
 #### Nation deletion
-As a king, if your nation gets deleted for any reason, including capture of your last town, you will be refunded 90% of the initial cost of creating the nation. This can be triggered voluntarily using `/n delete`.
+As a king, if your nation gets deleted for any reason, including capture of your last town, you will be refunded 50% of the initial cost of creating the nation. This can be triggered voluntarily using `/n delete`.
 
 ### Tips
 
