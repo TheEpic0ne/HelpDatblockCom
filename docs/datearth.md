@@ -86,7 +86,10 @@ As a king, your claim to power will be tested. Defend your nation's towns to pro
 ## Economy
 
 ### Missions
+Complete missions to earn money. You receive a mission each time you vote. When you complete a mission, you will earn $200 as a reward. Missions can be shared with town members or traded.
 
 ### Shops
+You can sell items without having to be online or buy items without the seller hving to be online with chest shops. Create a chest shop by shift-clicking a chest with the item you'd like to sell and shift-click a chest shop to interact and buy from it. Join a town and nation with many allies for easier trading and larger trading hubs.
 
 ### Trade
+You can safely trade items, money, and experience points with another player by requesting a trade with /trade. The player you would like to trade with must be within 10 blocks of you.
