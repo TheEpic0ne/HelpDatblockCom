@@ -1,5 +1,11 @@
 # War
 
+* **A nation can initiate a siege against a town at any time** _(but new towns are immune, as are recently besieged towns)_
+* **All buildings remain undamaged** _(because town build perms and town leadership structures are completely unaffected)_
+* **Towns can be captured** _(allowing nations/empires to to built by force)_
+* **Towns can be plundered** _(transferring wealth from the defeated town to the victorious nation)_
+* **Casual & cross-timezone players can contribute to most wars** _(because sieges are of moderate duration, typically 3 days)_
+
 ## Sieging
 
 As a king or general, place a coloured banner in the wilderness close to a town. This action will initiate a new siege, or cause the attacker to join an existing one. The upfront cost of the siege for the attacker is $500.
@@ -51,9 +57,9 @@ Find residents who can be trusted to fight for your town or nation, and assign t
 ### Watch your town bank balance
 As a mayor, keep enough money in the bank for sieges. If a town is plundered of all its gold by a siege attacker, the town will be destroyed, entering a ruined state for some time. During this time the town blocks cannot be reclaimed, but all perms will be enabled.
 
-**Make friends & allies**
+### Make friends & allies
 Diplomacy is critical.  As a mayor, diplomacy can be the difference between your town remaining independant, within a friendly nation, or occupied by an expansionistic empire. As a king, diplomacy can be the difference between your nation succeeding, and its annihilation.
 
-**You are not entitled to power**
+### You are not entitled to power
 As a king, your claim to power will be tested. Defend your nation's towns to prove yourself a true nation leader.
 
