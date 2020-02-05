@@ -1,7 +1,7 @@
 # Datearth
 _This page is a work in progress. What is currently written may not be accurate._
 
-View a map of Gladia at [gladia.datearth.com](https://gladia.datearth.com) and a map of Nova at [nova.datearth.com](https://nova.datearth.com).
+View a live map of Gladia at [gladia.datearth.com](https://gladia.datearth.com) and of Nova at [nova.datearth.com](https://nova.datearth.com).
 
 ## Towns
 
