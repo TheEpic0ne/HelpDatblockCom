@@ -1,4 +1,8 @@
+_This page is a work in progress. What is currently written may not be accurate._
+
 ## Towns
+
+You can create a new town with `/t new` for $2000. A town can claim territory with `/t claim` for $200 per chunk. Residents are protected from outsiders in the town's territory unless their nation is at war. You can view all town commands with `/t ?`.
 
 ### Ranks
 
@@ -11,8 +15,6 @@
 ### Commands
 
 ## War
-
-_This page is a work in progress. What is currently written may not be the final design of the war system._
 
 ### Sieging
 
