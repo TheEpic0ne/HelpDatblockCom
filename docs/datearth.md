@@ -18,7 +18,7 @@ As an attacker or a defender with a military rank, occupy the wilderness area wi
 #### Killing
 As an attacker or a defender with a military rank, kill enemy players within a 100 block radius of the siege banner to increase or decrease the score by 200 points. Allies with a military rank can contribute.
 
-##### Military ranks
+#### Military ranks
 
 The military ranks for towns are guard, sheriff, and mayor. The military ranks for nations are soldier, general, and king.
 
