@@ -5,7 +5,7 @@ Datearth is a geopolitical Minecraft server with a real world earth map where to
 
 ![image](_images/gladia.png)
 
-Live map of [Gladia](https://gladia.datearth.com) and [Nova](https://nova.datearth.com).
+Live map of Gladia at [gladia.datearth.com](https://gladia.datearth.com) and Nova at [nova.datearth.com](https://nova.datearth.com).
 
 
 ## Towns
