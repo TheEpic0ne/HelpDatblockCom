@@ -1,5 +1,7 @@
 ## War
 
+_This page is a work in progress. What is currently written may not be the final design._
+
 ### Sieging
 
 As a king or general, place a coloured banner in the wilderness close to a town. This action will initiate a new siege, or cause the attacker to join an existing one. The upfront cost of the siege for the attacker is $500.
