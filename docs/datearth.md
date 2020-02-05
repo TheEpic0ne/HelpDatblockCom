@@ -1,7 +1,9 @@
 # Datearth
 _This page is a work in progress. What is currently written may not be accurate._
 
-View a live map of Gladia at [gladia.datearth.com](https://gladia.datearth.com) and of Nova at [nova.datearth.com](https://nova.datearth.com).
+Datearth is a geopolitical Minecraft server with a real world earth map where towns and nations strive for power with diplomacy and war. The Datearth server is on 1.13.2 but you can connect to the server with 1.13.2 to the latest Minecraft version. You 
+
+View a live map of [Gladia](https://gladia.datearth.com) and [Nova](https://nova.datearth.com).
 
 ![image](_images/gladia.png)
 
