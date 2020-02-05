@@ -1,3 +1,3 @@
 - [General](general.md)
 - [Rules](rules.md)
-- [Earth](Earth.md)
+- [Datearth](datearth.md)
