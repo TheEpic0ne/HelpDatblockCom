@@ -20,7 +20,7 @@ As an attacker or a defender with a military rank, kill enemy players within a 1
 
 ##### Military ranks
 
-The military ranks for the defending town is guard, sheriff, and mayor. The military ranks for the attacking nation is soldier, general, and king.
+The military ranks for towns are guard, sheriff, and mayor. The military ranks for nations are soldier, general, and king.
 
 #### Abandon attack
 As a king or general, place an all-white banner near the siege-attack-banner to abandon the attack. The attacker can abandon the attack 24 hours after the siege started.
