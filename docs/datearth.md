@@ -4,20 +4,22 @@ _This page is a work in progress. What is currently written may not be the final
 
 ### Sieging
 
-As a king or general, place a coloured banner in the wilderness close to a town to initiate a siege. Starting a siege will cost the attacking nation $1500. This money will be recovered by the siege winner.
+As a king or general, place a coloured banner in the wilderness close to a town to initiate a siege. Starting a siege will cost the attacking nation $1500. This money will be recovered by the siege winner. 
+
+New towns are immune from sieging for 7 days. A town recently sieged is immune from sieging for the length of the previous siege times 2.5.
 
 #### Score
 
 The town under siege has a score shown in `/t` that will determine the siege winner. The attacker requires a positive score to win and the defender requires a negative score to win. A siege lasts 3 days and a timer is shown in `/t` for the town under siege.
 
 #### Occupying
-As an attacker or a defender with a military rank, occupy the wilderness area within 16 blocks of the siege banner to increase or decrease the score by 10 points every 30 seconds occupied. Allies with a military rank can contribute.
+As an attacker or a defender with a military rank, occupy the wilderness area within 16 blocks of the siege banner to increase or decrease the score by 10 points every 30 seconds occupied. After 15 minutes while remaining in the siege zone, to resume scoring points, the player will need to exit then re-enter the siege zone. Allies with a military rank can contribute.
 
 #### Killing
 As an attacker or a defender with a military rank, kill enemy players within a 100 block radius of the siege banner to increase or decrease the score by 200 points. Allies with a military rank can contribute.
 
 #### Abandon attack
-As a king or general, place an all-white banner near the siege-attack-banner to abandon the attack.
+As a king or general, place an all-white banner near the siege-attack-banner to abandon the attack. 
 
 #### Surrender town
 As a mayor, place an all-white banner anywhere in the town to surrender.
@@ -38,7 +40,7 @@ View a list of any sieges the nation is involved in, using `/n`.
 As a mayor, declare your town to be neutral using `/t toggle neutral`. A neutral town cannot voluntarily join any nation and is immune to siege-forced-pvp, plunder, and occupation taxes. Attackers can still invade if they manage to defeat the town, but the occupation is in-name-only, with no material benefits provided except to increase nation town count.
 
 #### Town revolt
-As a mayor, when a certain duration has passed after an invasion, typically many days, the town can revolt and be free of the occupying nation. This is done using `/n leave`.
+As a mayor, when a 7 days has passed after an invasion, the town can revolt and be free of the occupying nation. This is done using `/n leave`.
 
 #### Nation deletion
 As a king, if your nation gets deleted for any reason, including capture of your last town, you will be refunded 90% of the initial setup cost. This can be triggered voluntarily using `/n delete`.
