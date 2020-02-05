@@ -1,6 +1,6 @@
 ## War
 
-_This page is a work in progress. What is currently written may not be the final design._
+_This page is a work in progress. What is currently written may not be the final design of the war system._
 
 ### Sieging
 
