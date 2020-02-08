@@ -20,9 +20,9 @@ A nation is a collection of united towns. A nation has a capital town whose mayo
 
 ### Sieging
 
-As a king or general, place a coloured banner in the wilderness close to a town to initiate a siege. Starting a siege will cost the attacking nation $1500. This money will be recovered by the siege winner. 
+As a king or general, place a coloured banner in the wilderness close to a town to initiate a siege. Starting a siege will cost the attacking nation $75 per town plot the defending town has. This money will be recovered by the siege winner. 
 
-New towns are immune from sieging for 7 days. A town recently sieged is immune from sieging for the length of the previous siege times 2.5.
+New towns are immune from sieging for 7 days. A town recently sieged is immune from sieging for the length of the previous siege times 3.
 
 #### Score
 
