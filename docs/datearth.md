@@ -52,6 +52,8 @@ As a king or general, after the siege is won, place a chest in the wilderness cl
 #### Capturing town
 As a king or general, after the siege is won, place a coloured banner in the wilderness close to the town. This action will forcibly add the town to the nation, and will put the town into an 'occupied' state, in which its residents cannot affect siege points in other wars. 
 
+*Notice!* Towns in a nation must have enough money in their town bank to pay nation taxes, else their town will fall to ruins.
+
 ### Commands
 
 View detailed information on any siege affecting the town, using `/t`.
@@ -89,7 +91,7 @@ Outposts are important. Towns can be besieged anywhere they have claimed territo
 Find residents who can be trusted to fight for your town or nation, and assign them the ranks of guard or sheriff in the town or soldier or general in the nation.
 
 #### Watch your town bank balance
-As a mayor, keep enough money in the bank for sieges. If a town is plundered of all its gold by a siege attacker, the town will be destroyed, entering a ruined state for some time. During this time the town blocks cannot be reclaimed, after which the town will be deleted.
+As a mayor, keep enough money in the bank for sieges and nation taxes. If a town is plundered of all its money by a siege attacker or can't afford nation taxes, the town will be destroyed, entering a ruined state for some time. During this time the town blocks cannot be reclaimed, after which the town will be deleted. 
 
 #### Make friends & allies
 Diplomacy is critical.  As a mayor, diplomacy can be the difference between your town remaining independant, within a friendly nation, or occupied by an expansionistic empire. As a king, diplomacy can be the difference between your nation succeeding, and its annihilation.
