@@ -45,7 +45,7 @@ As a king or general, place an all-white banner near the siege-attack-banner to 
 As a mayor, place an all-white banner anywhere in the town to surrender. The defender can surrender 24 hours after the siege started.
 
 #### Plunder town
-As a king or general, after the siege is won, place a chest in the wilderness close to the town. This will rob the town $100 per plot the sieged town has, transferring it to the plundering nation. If the town does not have enough money it will go into a ruined state, where all perms will be enabled. The ruined state persists for 1 day, after which the town will be deleted.
+As a king or general, after the siege is won, place a chest in the wilderness close to the town. This will rob the town $100 per plot the sieged town has, transferring it to the plundering nation. If the town does not have enough money it will go into a ruined state, where all perms will be enabled. The ruined state persists for 24 hours, after which the town will be deleted.
 
 #### Capturing town
 As a king or general, after the siege is won, place a coloured banner in the wilderness close to the town. This action will forcibly add the town to the nation, and will put the town into an 'occupied' state, in which its residents cannot affect siege points in other wars. 
@@ -73,7 +73,7 @@ As a king, if your nation gets deleted for any reason, including capture of your
 Neutral towns may not participate in any wars such as helping a nation keep enemy soldiers away from the siege zone. Residents in a neutral town participating in a war will be punished and the town may lose its right to neutrality.
 
 #### Fallen towns
-If a town enters a ruined state, the town may be looted of containers and valuable blocks. Valuable blocks are ore and mineral blocks, enchanting tables, bookshelves, beacons, conduits, ender chests, anvils, and brewing stands. Blocks can be destroyed in ruined towns, but blocks may only be broken to get through barriers such as doors or walls to valuables. Any excessive or unnecessary breaking will be punished. The ruined state lasts one day whereafter the town is fully deleted. The first to claim the town again is the rightful owner of the town.
+If a town enters a ruined state, the town may be looted of containers and valuable blocks. Valuable blocks are ore and mineral blocks, enchanting tables, bookshelves, beacons, conduits, ender chests, anvils, and brewing stands. Blocks can be destroyed in ruined towns, but blocks may only be broken to get through barriers such as doors or walls to valuables. Any excessive or unnecessary breaking will be punished. The ruined state lasts 24 hours whereafter the town is fully deleted. The first to claim the town again is the rightful owner of the town.
 
 #### Fair wars
 Any use of bugs or unintended behavior to gain an advantage in a siege will be punished. Use common sense or ask staff if unsure.
