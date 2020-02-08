@@ -72,6 +72,9 @@ As a king, if your nation gets deleted for any reason, including capture of your
 #### Neutral is neutral
 Neutral towns may not participate in any wars such as helping a nation keep enemy soldiers away from the siege zone. Residents in a neutral town participating in a war will be punished and the town may lose its right to neutrality.
 
+#### Fallen towns
+If a town enters a ruined state, the town may be looted of containers and valuable blocks. Valuable blocks are ore and mineral blocks, enchanting tables, bookshelves, beacons, conduits, ender chests, anvils, and brewing stands. Blocks can be destroyed in ruined towns, but blocks may only be broken to get through barriers such as doors or walls to valuables. Any excessive or unnecessary breaking will be punished. The ruined state lasts one day whereafter the town is fully deleted. The first to claim the town again is the rightful owner of the town.
+
 ### Tips
 
 #### Fortify or abandon outposts
