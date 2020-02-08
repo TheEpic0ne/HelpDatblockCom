@@ -38,7 +38,7 @@ As an attacker or a defender with a military rank, kill enemy players within a 1
 
 The military ranks for towns are guard, sheriff, and mayor. The military ranks for nations are soldier, general, and king.
 
-*Notice!* Changing ranks of residents or changing ally relations while residents in your town, nation or allied nation is in the siege zone, will penalize your town or nation in points in the war.
+*Notice!* Changing ranks or ally relations while residents in your town, nation or allied nation is in the siege zone, will penalize your town or nation in points in the siege.
 
 #### Abandon attack
 As a king or general, place an all-white banner near the siege-attack-banner to abandon the attack. The attacker can abandon the attack 24 hours after the siege started.
