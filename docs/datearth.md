@@ -26,7 +26,7 @@ New towns are immune from sieging for 7 days. A town recently sieged is immune f
 
 #### Score
 
-The town under siege has a score shown in `/t` that will determine the siege winner. The attacking nation requires a positive score to win and the defending town requires a negative score to win. A siege lasts 3 days and a timer is shown in `/t` for the town under siege.
+The town under siege has a score shown in `/t` that will determine the siege winner. The attacking nation requires a positive score to win and the defending town requires a negative score to win. A siege lasts 5 days and a timer is shown in `/t` for the town under siege.
 
 #### Occupying
 As an attacker or a defender with a military rank, occupy the wilderness area within 16 blocks of the siege banner to increase or decrease the score by 10 points every 30 seconds occupied. After 15 minutes while remaining in the siege zone, to resume scoring points, the player will need to exit then re-enter the siege zone. All residents in the nation and allies with a military rank can contribute to the score.
@@ -45,7 +45,7 @@ As a king or general, place an all-white banner near the siege-attack-banner to 
 As a mayor, place an all-white banner anywhere in the town to surrender. The defender can surrender 24 hours after the siege started.
 
 #### Plunder town
-As a king or general, after the siege is won, place a chest in the wilderness close to the town. This will rob the town $100 per plot the sieged town has, transferring it to the plundering nation. If the town does not have enough money it will go into a ruined state, where all perms will be enabled. The ruined state persists for 2 days, after which full deletion of the town occurs.
+As a king or general, after the siege is won, place a chest in the wilderness close to the town. This will rob the town $100 per plot the sieged town has, transferring it to the plundering nation. If the town does not have enough money it will go into a ruined state, where all perms will be enabled. The ruined state persists for 1 day, after which the town will be deleted.
 
 #### Capturing town
 As a king or general, after the siege is won, place a coloured banner in the wilderness close to the town. This action will forcibly add the town to the nation, and will put the town into an 'occupied' state, in which its residents cannot affect siege points in other wars. 
@@ -62,15 +62,17 @@ As a mayor, declare your town to be neutral using `/t toggle neutral`. A neutral
 It takes 7 days to confirm a town neutrality status change after the mayor toggles neutrality.
 
 #### Town revolt
-As a mayor, when a 7 days has passed after an invasion, the town can revolt and be free of the occupying nation. This is done using `/n leave`.
+As a mayor, when a 10 days has passed after an invasion, the town can revolt and be free of the occupying nation. This is done using `/n leave`.
 
 #### Nation deletion
 As a king, if your nation gets deleted for any reason, including capture of your last town, you will be refunded 50% of the initial cost of creating the nation. This can be triggered voluntarily using `/n delete`.
 
-### Tips
+### Rules
 
-#### Fortify towns
-Walls are important. During sieges they help stop enemies from infiltrating towns and killing residents.
+#### Neutral is neutral
+Neutral towns may not participate in any wars such as helping a nation keep enemy soldiers away from the siege zone. Residents in a neutral town participating in a war will be punished and the town may lose its right to neutrality.
+
+### Tips
 
 #### Fortify or abandon outposts
 Outposts are important. Towns can be besieged anywhere they have claimed territory.  Make provisions to defend valuable outposts, and abandon the rest.
@@ -79,7 +81,7 @@ Outposts are important. Towns can be besieged anywhere they have claimed territo
 Find residents who can be trusted to fight for your town or nation, and assign them the ranks of guard or sheriff in the town or soldier or general in the nation.
 
 #### Watch your town bank balance
-As a mayor, keep enough money in the bank for sieges. If a town is plundered of all its gold by a siege attacker, the town will be destroyed, entering a ruined state for some time. During this time the town blocks cannot be reclaimed, but all perms will be enabled, after which it will be deleted.
+As a mayor, keep enough money in the bank for sieges. If a town is plundered of all its gold by a siege attacker, the town will be destroyed, entering a ruined state for some time. During this time the town blocks cannot be reclaimed, after which the town will be deleted.
 
 #### Make friends & allies
 Diplomacy is critical.  As a mayor, diplomacy can be the difference between your town remaining independant, within a friendly nation, or occupied by an expansionistic empire. As a king, diplomacy can be the difference between your nation succeeding, and its annihilation.
