@@ -52,7 +52,7 @@ As a king or general, after the siege is won, place a chest in the wilderness cl
 #### Capturing town
 As a king or general, after the siege is won, place a coloured banner in the wilderness close to the town. This action will forcibly add the town to the nation, and will put the town into an 'occupied' state, in which its residents cannot affect siege points in other wars. 
 
-*Notice!* Towns in a nation must have enough money in their town bank to pay nation taxes, else their town will fall to ruins.
+*Notice!* Towns in a nation must have enough money in their town bank to pay nation taxes, else their town will fall to ruins. You can view your nation's tax rate with `/n`.
 
 ### Commands
 
