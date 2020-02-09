@@ -24,7 +24,7 @@ As a king or general, place a coloured banner in the wilderness close to a town 
 
 New towns are immune from sieging for 7 days. A town recently sieged is immune from sieging for the length of the previous siege times 3.
 
-A nation can have a maxiumum of 3 active sieges at once.
+A nation can have a maximum of 3 active sieges at once.
 
 #### Score
 
