@@ -32,9 +32,15 @@ No non-human activity, like auto clicking for fishing. You must be able to respo
 
 ## Survival
 
+1. No griefing other player's creations.
+
 ## Skyblock
 
+1. No griefing other player's creations.
+
 ## Creative
+
+1. No griefing other player's creations.
 
 ## Datearth
 
