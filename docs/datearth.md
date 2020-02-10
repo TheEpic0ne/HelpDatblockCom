@@ -31,10 +31,10 @@ A nation can have a maximum of 3 active sieges at once.
 The town under siege has a score shown in `/t` that will determine the siege winner. The attacking nation requires a positive score to win and the defending town requires a negative score to win. A siege lasts 3 days and a timer is shown in `/t` for the town under siege.
 
 #### Occupying
-As an attacker or a defender with a military rank, occupy the wilderness area within 16 blocks of the siege banner to increase or decrease the score by 10 points every 20 seconds occupied. Up to 4 players per side can score timed siege points at once. After 15 minutes while remaining in the siege zone, to resume scoring points, the player will need to exit then re-enter the siege zone. All residents in the nation and allies with a military rank can contribute to the score. 
+As an attacker or a defender with a military rank, occupy the wilderness area within 16 blocks of the siege banner to increase or decrease the score by 5 points every 20 seconds occupied. Up to 3 players per side can score timed siege points at once. After 10 minutes while remaining in the siege zone, to resume scoring points, the player will need to exit then re-enter the siege zone. All residents in the nation and allies with a military rank can contribute to the score. 
 
 #### Killing
-As an attacker or a defender with a military rank, kill enemy players within a 100 block radius of the siege banner to increase or decrease the score by 200 points. Allies with a military rank can contribute. All residents in the nation and allies with a military rank can contribute to the score.
+As an attacker or a defender with a military rank, kill enemy players within a 150 block radius of the siege banner to increase or decrease the score by 200 points. Allies with a military rank can contribute. All residents in the nation and allies with a military rank can contribute to the score.
 
 #### Military ranks
 
@@ -49,8 +49,9 @@ As a king or general, place an all-white banner near the siege-attack-banner to 
 As a mayor, place an all-white banner anywhere in the town to surrender. The defender can surrender 12 hours after the siege started.
 
 #### Plunder town
-As a king or general, after the siege is won, place a chest in the wilderness close to the town. This will rob the town $100 per plot the sieged town has, transferring it to the plundering nation. If the town does not have enough money it will go into a ruined state, where all perms will be enabled. The ruined state persists for 2
-hours, after which the town will be deleted.
+As a king or general, after the siege is won, place a chest in the wilderness close to the town. This will rob the town $50 per plot the sieged town has, transferring it to the plundering nation. If the town does not have enough money it will go into a ruined state, where all perms will be enabled. The ruined state persists for 2 hours, after which the town will be deleted.
+
+*Notice!* Plundering is currently not enabled.
 
 #### Capturing town
 As a king or general, after the siege is won, place a coloured banner in the wilderness close to the town. This action will forcibly add the town to the nation, and will put the town into an 'occupied' state, in which its residents cannot affect siege points in other wars. 
@@ -64,9 +65,9 @@ View detailed information on any siege affecting the town, using `/t`.
 View a list of any sieges the nation is involved in, using `/n`.
 
 #### Town neutrality
-As a mayor, declare your town to be neutral using `/t toggle neutral`. A neutral town cannot voluntarily join any nation and is immune to plunder and occupation taxes. Attackers can still invade if they manage to defeat the town, but the occupation is in-name-only, with no material benefits provided except to increase nation town count.
+As a mayor, declare your town to be neutral using `/t toggle neutral`. A neutral town cannot voluntarily join any nation and is immune to forced PvP, plunder and occupation taxes. Attackers can still invade if they manage to defeat the town, but the occupation is in-name-only, with no material benefits provided except to increase nation town count.
 
-It takes 5 days to confirm a town neutrality status change after the mayor toggles neutrality.
+It takes 4 days to confirm a town neutrality status change after the mayor toggles neutrality.
 
 #### Town revolt
 As a mayor, when a 7 days has passed after an invasion, the town can revolt and be free of the occupying nation. This is done using `/n leave`.
@@ -89,6 +90,9 @@ The attacking nation is allowed to construct small walls at the siege zone to pr
 Any use of bugs or unintended behavior to gain an advantage in a siege will be punished. Use common sense or ask staff if unsure.
 
 ### Tips
+
+#### Fortify towns
+Walls are important. During sieges they help stop enemies from infiltrating towns and killing residents.
 
 #### Fortify or abandon outposts
 Outposts are important. Towns can be besieged anywhere they have claimed territory.  Make provisions to defend valuable outposts, and abandon the rest.
