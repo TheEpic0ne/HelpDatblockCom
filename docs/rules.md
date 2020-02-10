@@ -16,6 +16,12 @@ Rules are in place to ensure a fair and enjoyable experience for everyone. Rules
 
 ### 2. Gameplay Behavior
 
+2.1 No bypassing AFK kick, like using an AFK pool.
+
+2.2 No nether portal trapping, do not block up portals in a way where a player can't access commands by being stuck in the nether portal animation.
+
+2.3 No heavy redstone use and slime block planes.
+
 ### 3. Player Behavior
 
 ### 4. Miscellaneous
