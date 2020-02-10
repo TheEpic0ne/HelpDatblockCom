@@ -54,13 +54,19 @@ Rules are in place to ensure a fair and enjoyable experience for everyone. Rules
 
 No griefing other player's creations.
 
+No killing other players without their permission.
+
 ## Skyblock
 
 No griefing other player's creations.
 
+No killing other players without their permission.
+
 ## Creative
 
 No griefing other player's creations.
+
+No killing other players without their permission.
 
 ## Datearth
 
