@@ -30,17 +30,17 @@ No client modifications that give an advantage. Modifications for pure aesthetic
 
 No non-human activity, like auto clicking for fishing. You must be able to respond to a staff member.
 
-## Survival
+### 5. Survival
 
-1. No griefing other player's creations.
+5.1 No griefing other player's creations.
 
-## Skyblock
+### 6. Skyblock
 
-1. No griefing other player's creations.
+6.1 No griefing other player's creations.
 
-## Creative
+### 7. Creative
 
-1. No griefing other player's creations.
+7.1 No griefing other player's creations.
 
 ## Datearth
 
