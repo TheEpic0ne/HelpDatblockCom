@@ -123,3 +123,11 @@ You can sell items without having to be online or buy items without the seller h
 
 ### Trade
 You can safely trade items, money, and experience points with another player by requesting a trade with /trade. The player you would like to trade with must be within 10 blocks of you.
+
+## Warfare
+
+### Anicent
+The world, Gladia, uses ancient warfare. With ancient warfare, the vanilla combat system has been modified to replicate the 1.8 combat mechanics, before the 1.9 combat update. This means for example that there are no weapon cooldowns. Shields have been kept, creating a unique combination of the old and new Minecraft combat systems. Note that the damage values of weapons displayed on your client are inaccurate, as they have been changed server-side to the 1.8 damage values, meaning that the sword deals the most amount of damage. 
+
+### Modern
+
