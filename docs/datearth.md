@@ -131,3 +131,8 @@ The world, Gladia, uses ancient warfare. With ancient warfare, the vanilla comba
 
 ### Modern
 The world, Nova, uses modern warfare. With modern warfare, the vanilla combat system is unchanged, using post-1.9 combat, but features non-vanilla additions to combat and transportation. 
+
+#### Firearms
+Firearms such as pistols, rifles, rocket launchers, and more can be bought from the weapon shop. Right click to shoot, press Q to reload, shift for less recoil, and left click for a special mechanic that some weapons have such as aiming with a scope. Weapons have attributes such as damage, weight, speed, and spread that make them unique. Headshots and shots from behind deal more damage.
+
+#### Vehicles
