@@ -139,7 +139,7 @@ The world, Nova, uses modern warfare. With modern warfare, the vanilla combat sy
 [Click here to learn how to install the resource pack.](https://minecraft.gamepedia.com/Tutorials/Loading_a_resource_pack)
 
 #### Firearms
-Pistols, rifles, rocket launchers, and more can be bought from the weapon shop with `/weapons`. Right click to shoot, press Q to reload, shift for less recoil, and left click for a special mechanic that some weapons have such as aiming with a scope. Weapons have attributes such as damage, weight, speed, and spread that make them unique. Headshots and shots from behind deal more damage.
+Pistols, rifles, rocket launchers, and more can be bought from the weapon shop with `/weapons`. Right click to shoot, press Q to reload, shift for less recoil, and left click for a special mechanic that some weapons have such as aiming with a scope. Weapons have attributes such as damage, weight, speed, and spread that make them unique. Headshots and shots from behind deal more damage. Some firearms can not be purchased from the weapons shop and can only be found in crates.
 
 Protection and thorns enchantment has been disabled and sharpness enchantment is limited to level 3. This is to account for firearms in combat and keep the damage caused by firearms realistic and similar to any other shooter game.
 
