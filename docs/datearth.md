@@ -163,5 +163,9 @@ There are two nuclear weapons, atomic bomb and hydrogen bomb. Both weapons cause
 Your radiation level is displayed in a bar on top of your screen. Radiation causes weakness, nausea and ultimately death at 100 rads. Sources of radiation include: holding nuclear waste, standing near nuclear waste, reactor meltdowns, and nuclear weapons. Your radiation level will slowly decrease as time passes or you can use radiation pills to significantly reduce your radiation level. The amount of radiation a player receives from a radiation source can be reduced by wearing hazmat gear. For each piece of hazmat gear the player is wearing, the amount of rads received is reduced by 25% so if the player is wearing a full hazmat suit they are fully protected from all radiation.
 
 #### Space Travel
+
+##### Mars
 It is possible to space warp to the planet, Mars, by entering a nether portal. Mars is in the nether dimension where nether related supplies can be gathered and martians roam here and have a low chance of dropping a nether star or their head which carries special powers.
 
+##### The Moon
+It is possible to travel to the Moon by a rocket that you can purchase with `/rocket`. The Moon is in the end dimension where end related supplies can be gathered and alien roam here and have a low chance of dropping end rods or their head which carries special powers. Uranium ore for nuclear can also be mined on the Moon.
