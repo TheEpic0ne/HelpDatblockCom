@@ -144,7 +144,7 @@ Pistols, rifles, rocket launchers, and more can be bought from the weapon shop w
 Protection and thorns enchantment has been disabled and sharpness enchantment is limited to level 3. This is to account for firearms in combat and keep the damage caused by firearms realistic and similar to any other shooter game.
 
 #### Vehicles
-There are four different vehicles: jeeps, boats, planes, and helicopters. To control vehicles, use WASD and space. Once you buy a vehicle, you will have it forever. You can summon your vehicles from your garage. Shift while in the vehicle to un-summon the vehicle. A resource pack is required for the vehicles but the resource pack is compatible with other resource packs.
+Jeeps, boats, planes, and helicopters that can be bought from the vehicle shop with `/vehicles`. To control a vehicle, use WASD and space. Once you buy a vehicle, you will keep it forever. You can summon your vehicles from your garage with `/garage`. Shift while in the vehicle to un-summon the vehicle.
 
 #### Nuclear
 Make nuclear weapons and reactors with uranium from the moon. Obtain uranium ore by mining endstone on the moon. Smelt uranium ore in a furnace to turn it into enriched uranium. Enriched uranium is used to make fuel rods for reactors and nuclear weapons.
