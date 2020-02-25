@@ -132,7 +132,7 @@ The world, Gladia, uses ancient warfare. With ancient warfare, the vanilla comba
 ### Modern
 The world, Nova, uses modern warfare. With modern warfare, the vanilla combat system is unchanged, using post-1.9 combat, but features non-vanilla additions to combat and transportation. 
 
-*Notice!* You must have the modern warfare resource pack to view the custom weapon and vehicle models. The resource pack is lightweight and compatible with other resource packs. Upon enabling the resource pack, it may warn that the resource pack is outdated, however, it will still function with no issues.
+*Notice!* You must have the modern warfare resource pack to view the custom firearm and vehicle models. The resource pack is lightweight and compatible with other resource packs. Upon enabling the resource pack, it may warn that the resource pack is outdated, however, it will still function with no issues.
 
 [Click here to download the resource pack.](https://datearth.com/resourcepack)
 
@@ -147,8 +147,12 @@ There are four different vehicles: jeeps, boats, planes, and helicopters. To con
 #### Nuclear
 Make nuclear weapons and reactors with uranium from the moon. Obtain uranium ore by mining endstone on the moon. Smelt uranium ore in a furnace to turn it into enriched uranium. Enriched uranium is used to make fuel rods for reactors and nuclear weapons.
 
+[Click here to view the recipes for nuclear.](https://imgur.com/a/RTx5FcL)
+
 ##### Nuclear Reactors
 You can create a nuclear reactor to fuel a furnace. To create a nuclear reactor, you need to place 1 reactor core, 3 cauldrons, 1 hopper, and then as last block 1 furnace. You much place the furnace as last block. To use the nuclear reactor, simply place fuel rods in the hopper. One fuel rod will keep the reactor running for 30 minutes. Radioactive nuclear waste will be produced while the reactor is running and will be deposited into the hopper or dropped on the ground if the hopper is full. Nuclear waste will radiate players if they hold it in their inventory or stand near it when its on the ground. Wear hazmat gear to reduce its effect! While the reactor is running it will use up the water in the cauldrons. The reactor will use one cauldron level of water every 60 seconds. If the reactor runs out of water it will meltdown, causing an explosion and radiation.
+
+[Click here to view the blueprint for a nuclear reactor.](https://imgur.com/a/VcN67W9)
 
 ##### Nuclear Weapons
 There are two nuclear weapons, atomic bomb and hydrogen bomb. Both weapons cause a large explosion on impact and radiate the surrounding area but the hydrogen bomb is more powerful. The atomic bomb has an explosion strength of 30 and causes radiation within a 25 block radius for 2 minutes and the hydrogen bomb has an explosion strength of 75 and causes radiation within a 50 block radius for 5 minutes. For scale, TNT has an explosion strength of 4. The explosions do not cause damage to blocks. To launch a nuclear weapon, click the item while looking in the direction you want the missile to fire and it will explode on impact.
