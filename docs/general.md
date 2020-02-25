@@ -8,7 +8,6 @@ Vote daily at server lists for rewards! Visit the links below and enter your Min
 - [MinecraftServers.org](https://minecraftservers.org/vote/509303)
 - [TopMinecraftServers.org](https://topminecraftservers.org/vote/4135)
 - [Topg.org](https://topg.org/Minecraft/in-503411)
-- [Minecraft-Server.net](https://minecraft-server.net/vote/Datblock/)
 
 ## Links
 
