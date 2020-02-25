@@ -63,7 +63,7 @@ View detailed information on any siege affecting the town, using `/t`.
 
 View a list of any sieges the nation is involved in, using `/n`.
 
-## Ruined Towns
+#### Ruined Towns
 When a town is deleted or falls, the town enters a ruined state for 48 hours, whereafter the town is deleted. Any player can place and break blocks in a ruined town while the town claims remain. After 12 hours of the town being in a ruined state, any player can reclaim the town with `/t reclaim`. If no one reclaims the town after 48 hours the town and its claims will be deleted.
 
 *Notice!* Remember to follow the rules written below regarding the looting of towns in a ruined state.
