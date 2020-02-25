@@ -132,9 +132,10 @@ The world, Gladia, uses ancient warfare. With ancient warfare, the vanilla comba
 ### Modern
 The world, Nova, uses modern warfare. With modern warfare, the vanilla combat system is unchanged, using post-1.9 combat, but features non-vanilla additions to combat and transportation. 
 
-*Notice!* You must have the modern warfare resource pack to view the custom weapon and vehicle models. The resource pack is lightweight, compatible with other resource packs. It may warn the resource pack is outdated but it will still function with no issues.
+*Notice!* You must have the modern warfare resource pack to view the custom weapon and vehicle models. The resource pack is lightweight and compatible with other resource packs. Upon enabling the resource pack, it may warn that the resource pack is outdated, however it will still function with no issues.
 
 [Click here to download the resource pack](https://datearth.com/resourcepack)
+
 [Click here to learn how to install the resource pack](https://minecraft.gamepedia.com/Tutorials/Loading_a_resource_pack)
 
 #### Firearms
