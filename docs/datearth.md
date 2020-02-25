@@ -184,3 +184,16 @@ It is possible to travel to the Moon by a rocket that you can purchase with `/ro
 - /vehicles - Opens the vehicle shop (modern warfare only).
 - /garage - Opens your vehicle garage. (modern warfare only).
 - /rocket - Purchase a space rocket (modern warfare only).
+
+#### Chat
+- /channel - View channel commands.
+- /join [channel] - Join a chat channel.
+- /leave [channel] - Leave a chat channel. 
+- /g [message] - Join or send a message in global channel.
+- /l [message] - Join or send a message in local channel.
+- /tc [message] - Join or send a message in town channel.
+- /nc [message] - Join or send a message in nation channel.
+- /ac [message] - Join or send a message in ally channel.
+- /tr [message] - Join or send a message in trade channel.
+- /msg - Send a private message to a player.
+- /ignore - Block messages from a player.
