@@ -11,6 +11,89 @@ Live map of Gladia at [gladia.datearth.com](https://gladia.datearth.com) and Nov
 
 You can create a new town with `/t new` for $2000. A town can claim territory with `/t claim` for $200 per chunk. Residents are protected from outsiders in the town's territory unless their nation is at war. You can view all town commands with `/t ?`.
 
+### Commands
+
+-   /town
+    -   - Shows a player their town's town screen.
+    -   ? - Shows /town commands available.
+    -   {town} - Shows a player another town's town screen.
+    -   here - Shows you the town screen of the town in which you stand.
+    -   leave - Leaves a town.
+    -   list
+        - by name {page #} - order alpabetically.
+        - by resident {page #} - order by town with most residents.
+        - by balance {page #} - order by town with the highest nation bank balance.
+        - by townblocks {page #} - order towns by how many townblocks they have claimed.
+        - by online {page #} - order by how many players are online at that moment.
+        - by open {page #} - lists only open towns, in order of most residents to least residents.
+    -   online - Shows players in your town which are online.
+    -   plots {townname} - Shows a helpful list of plots and their types/revenue which are owned by the town.
+    -   new {townname} - Creates a new town.
+    -   add {resident} .. {resident} - Mayor command to add residents to your town.
+    -   kick {resident} .. {resident} - Mayor command to remove residents from your town.
+    -   spawn - Teleports you to your town's spawn.
+    -   spawn {town} - Teleports you to another town's spawn.
+    -   claim - Mayor command to claim the townblock in which you stand for your town.
+        -   outpost <#|{name}|{name:#} - Claims an outpost for your town. {name} uses the plot name. {name:#} is used when a plot name begins with a number.
+        -   {# (radius around current position)} - Claims an area of townblocks around you for your town.
+        -   auto - Claims as many townblocks around you as is possible given money in townbank and available townblocks.
+    -   unclaim - Mayor command to unclaim the townblock in which you stand.
+        -   all - Mayor command to unclaim all townblocks.
+        -   {# (radius around current position)} - Command to unclaim an area of townblocks around you.
+        -   outpost - Used to unclaim glitched outposts on MySQL Towny servers pre-0.92.0.0
+    -   withdraw {$} - Removes money from town bank.
+    -   deposit {$} - Adds money from player to the town bank.
+    -   buy
+        -   bonus {amount} - Buys available bonus townblocks.
+    -   delete {town name} - Admin/Mayor command to delete a town from towny's data folder's files.
+    -   outlawlist {town} - Displays a list of outlaws for a town.
+    -   outlaw {add/remove} {name} - Adds or removes an outlaw from a town's outlaw list
+    -   outpost
+        -   {# (where # equals the corresponding outpost's number)} - Teleports to an outpost.
+        -   {list} - lists your town's outposts.
+    -   ranklist - Displays residents and their ranks.
+    -   rank {add|remove} {playername} {rankname} - Grants or removes a rank to a resident of the town.
+    -   reslist {townname} - See a FULL list of all residents in a town.
+    -   say {msg} - Broadcast a message to online town members.
+    -   set
+        -   board {message} - Sets message seen by residents upon logging in.
+        -   mayor {resident} - Mayor command to give mayor status to another resident.
+        -   homeblock - Sets the homeblock and spawn of your town.
+        -   spawn - Sets the town spawn, must be done inside the homeblock.
+        -   spawncost - Set the cost of spawning to a public town. Doesn't affect town residents, nation members and nation-allies.
+        -   name {name} - Change your town's name.
+        -   outpost - Resets the outpost's spawn point to the player location. Must be used in an existing outpost plot.
+        -   jail - Resets a jail plot's spawn to current position within a jail plot.
+        -   perm
+            -   {on/off} - Edits the perm line on the town screen. [See here for details.](https://github.com/TownyAdvanced/Towny/wiki/How-Towny-Works#towny-plot-perms)
+            -   {resident/ally/outsider} {on/off}
+            -   {build/destroy/switch/itemuse} {on/off}
+            -   {resident/ally/outsider} {build/destroy/switch/itemuse} {on/off}
+            -   reset - This takes the perm line seen in the /town screen and applies it to all plots owned by the town.
+        -   tag {upto4character} - Sets the town's tag, which is sometimes used on that chat line.
+            -   clear - Clears the tag set for the town.
+        -   taxes {$} - Sets taxes collected from each resident daily. Also sets percentage if taxpercent is toggled on.
+        -   plottax {$} - Set taxes collected from each resident daily, per plot that they own.
+        -   plotprice {$} - Sets default cost of plot for the town.
+        -   shopprice {$} - Sets default cost of a shopplot for the town.
+        -   shoptax {$} - Set taxes collected from each resident daily, per shopplot that they own.
+        -   embassyprice {$} - Sets default cost of a embassy plot for the town.
+        -   embassytax {$} - Set taxes collected from each resident daily, per embassy plot that they own.
+        -   title {name} {titlegoeshere} - Mayor command to add a Title to a member of the town.
+        -   surname {name} {surnamegoeshere} - Mayor command to add a Suffix to a member of the town.
+
+    -   toggle
+        -   explosion - Turn on/off explosions in town.
+        -   fire - Turn on/off firespread in town.
+        -   mobs - Turn on/off hostile mobspawning in town.
+        -   public - Turn on/off public /town spawning and the co-ordinates of the town's homeblock in the /town screen.
+        -   pvp - Turn on/off pvp in town.
+        -   taxpercent - Turn on/off taxing by percent/flatrate.
+        -   open - Turn on/off public joining to your town.
+        -   jail {number} {residentname} - Sends a resident of your town to the jail spawn number specified. Same command unjails a player.
+        -   jail {number} {residentname} {days} - Sends a resident of your town to the jail spawn number specified, for the number of Towny days specified.
+    -   join {townname} - Command to join a town that doesn't require invites.
+
 ## Nations
 
 A nation is a collection of united towns. A nation has a capital town whose mayor is the leader of the nation. You can create a nation with `/n new` for $20000. Being in a nation comes with benefits such as being able to teleport to each town in the nation, making trade and travel easier. You can view all nation commands with `/n ?`.
