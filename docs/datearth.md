@@ -130,7 +130,7 @@ You can safely trade items, money, and experience points with another player by 
 The world, Gladia, uses ancient warfare. With ancient warfare, the vanilla combat system has been modified to replicate the 1.8 combat mechanics, before the 1.9 combat update. This means that there is 1.8 attack cooldown, no sword sweep, knockback for fishing rods and projectiles such as snowballs, 1.8 health regeneration, 1.8 armor durability. Shields have been kept, creating a unique combination of the old and new Minecraft combat systems. Note that the damage values of weapons displayed on your client are inaccurate, as they have been changed server-side to the 1.8 damage values, meaning that the sword deals the most amount of damage. Invisibility potion has been disabled and strength potion has been nerfed.
 
 ### Modern
-The world, Nova, uses modern warfare. With modern warfare, the vanilla combat system is unchanged, using post-1.9 combat, but features non-vanilla additions to combat and transportation. 
+The world, Nova, uses modern warfare. With modern warfare, the vanilla combat system is unchanged except enchantments, using post-1.9 combat, but features non-vanilla additions to combat and transportation.
 
 *Notice!* You must have the modern warfare resource pack to view the custom firearm and vehicle models. The resource pack is lightweight and compatible with other resource packs. Upon enabling the resource pack, it may warn that the resource pack is outdated, however, it will still function with no issues.
 
@@ -140,6 +140,8 @@ The world, Nova, uses modern warfare. With modern warfare, the vanilla combat sy
 
 #### Firearms
 Pistols, rifles, rocket launchers, and more can be bought from the weapon shop with `/weapons`. Right click to shoot, press Q to reload, shift for less recoil, and left click for a special mechanic that some weapons have such as aiming with a scope. Weapons have attributes such as damage, weight, speed, and spread that make them unique. Headshots and shots from behind deal more damage.
+
+Protection and thorns enchantment has been disabled and sharpness enchantment is limited to level 3. This is to account for firearms in combat and keep the damage caused by firearms realistic and similar to any other shooter game.
 
 #### Vehicles
 There are four different vehicles: jeeps, boats, planes, and helicopters. To control vehicles, use WASD and space. Once you buy a vehicle, you will have it forever. You can summon your vehicles from your garage. Shift while in the vehicle to un-summon the vehicle. A resource pack is required for the vehicles but the resource pack is compatible with other resource packs.
