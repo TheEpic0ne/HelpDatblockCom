@@ -169,3 +169,18 @@ It is possible to space warp to the planet, Mars, by entering a nether portal. M
 
 ##### The Moon
 It is possible to travel to the Moon by a rocket that you can purchase with `/rocket`. The Moon is in the end dimension where end related supplies can be gathered and alien roam here and have a low chance of dropping end rods or their head which carries special powers. Uranium ore for nuclear can also be mined on the Moon.
+
+## Miscellaneous
+
+### Commands
+
+#### General
+- /vote - Vote to receive rewards.
+- /gold - Open the gold shop.
+- /balance - Check your money balance.
+- /baltop - View the top balances.
+- /trade - Request to trade with a player.
+- /weapons - Opens the weapon shop (modern warfare only).
+- /vehicles - Opens the vehicle shop (modern warfare only).
+- /garage - Opens your vehicle garage. (modern warfare only).
+- /rocket - Purchase a space rocket (modern warfare only).
