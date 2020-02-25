@@ -132,7 +132,10 @@ The world, Gladia, uses ancient warfare. With ancient warfare, the vanilla comba
 ### Modern
 The world, Nova, uses modern warfare. With modern warfare, the vanilla combat system is unchanged, using post-1.9 combat, but features non-vanilla additions to combat and transportation. 
 
-*Notice!* You must have the modern warfare resource pack to view the custom weapon and vehicle models. Download the resource pack from [datearth.com/resourcepack](https://datearth.com/resourcepack). [Click here to learn how to install the resource pack](https://minecraft.gamepedia.com/Tutorials/Loading_a_resource_pack). The resource pack is lightweight, compatible with other resource packs.
+*Notice!* You must have the modern warfare resource pack to view the custom weapon and vehicle models. The resource pack is lightweight, compatible with other resource packs. It may warn the resource pack is outdated but it will still function with no issues.
+
+[Click here to download the resource pack](https://datearth.com/resourcepack)
+[Click here to learn how to install the resource pack](https://minecraft.gamepedia.com/Tutorials/Loading_a_resource_pack)
 
 #### Firearms
 Pistols, rifles, rocket launchers, and more can be bought from the weapon shop with `/weapons`. Right click to shoot, press Q to reload, shift for less recoil, and left click for a special mechanic that some weapons have such as aiming with a scope. Weapons have attributes such as damage, weight, speed, and spread that make them unique. Headshots and shots from behind deal more damage.
