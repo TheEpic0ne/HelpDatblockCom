@@ -114,9 +114,8 @@ Diplomacy is critical.  As a mayor, diplomacy can be the difference between your
 Diplomacy is critical.  As a mayor, diplomacy can be the difference between your town remaining independant, within a friendly nation, or occupied by an expansionistic empire. As a king, diplomacy can be the difference between your nation succeeding, and its annihilation.
 
 #### Do not remove guards while the town is under siege
-As a mayor, while your town is under siege, do not remove guards by any means. If this occurs, a siege-point penalty will be applied.  
+As a mayor, while your town is under siege, do not remove guards by any means. If this occurs, a siege-point penalty will be applied. 
 
-#### Do not remove soldiers while sieges are in progress
 As a king, while you OR your allies have in-progress sieges, do not remove soldiers by any means. If this occurs, a siege-point penalty will be applied at each of the sieges.  
 
 ## Economy
