@@ -30,14 +30,14 @@ A nation can have a maximum of 3 active sieges at once.
 The town under siege has a score shown in `/t` that will determine the siege winner. The attacking nation requires a positive score to win and the defending town requires a negative score to win. A siege lasts 3 days and a timer is shown in `/t` for the town under siege.
 
 #### Occupying
-As an attacker or a defender with a military rank, occupy the wilderness area within 16 blocks of the siege banner to increase or decrease the score by 5 points every 20 seconds occupied. Up to 3 players per side can score timed siege points at once. After 10 minutes while remaining in the siege zone, to resume scoring points, the player will need to exit then re-enter the siege zone. For every 1000 points ahead, the winner side gets 1 point less and the loser side gets 1 point extra. All residents in the nation and allies with a military rank can contribute to the score. 
+As an attacker or a defender with a military rank, occupy the wilderness area within 16 blocks of the siege banner to increase or decrease the score by 5 points every 20 seconds occupied. Up to 3 players per side can score timed siege points at once. After 10 minutes while remaining in the siege zone, to resume scoring points, the player will need to exit then re-enter the siege zone. For every 1000 points ahead, the winner side gets 20% less points and the loser side gets 20% points extra. All residents in the nation and allies with a military rank can contribute to the score. 
 
 #### Killing
 As an attacker or a defender with a military rank, kill enemy players within a 150 block radius of the siege banner to increase or decrease the score by 500 points. Allies with a military rank can contribute. All residents in the nation and allies with a military rank can contribute to the score.
 
 #### Military ranks
 
-The military ranks for towns are guard, sheriff, and mayor. The military ranks for nations are soldier, general, and king.
+The military ranks for towns are guard, sheriff, and mayor. The military ranks for nations are soldier, general, and king. 
 
 *Notice!* Changing ranks or ally relations while residents in your town, nation, or allied nation are in the siege zone, will penalize your town or nation in points in the siege.
 
