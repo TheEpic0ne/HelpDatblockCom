@@ -19,7 +19,7 @@ A nation is a collection of united towns. A nation has a capital town whose mayo
 
 ### Sieging
 
-As a king or general, place a coloured banner in the wilderness close to a town to initiate a siege. Starting a siege will cost the attacking nation $50 per town plot the defending town has. This money will be recovered by the siege winner. 
+As a king or general, place a coloured banner in the wilderness close to a town to initiate a siege. Starting a siege will cost the attacking nation $50 per town plot the defending town has. This money will be recovered by the siege winner. While under siege, the town cannot recruit new residents or claim new land.
 
 New towns are immune from sieging for 7 days. A town recently sieged is immune from sieging for the length of the previous siege times 3.
 
@@ -110,8 +110,14 @@ As a mayor, keep enough money in the bank for sieges and nation taxes. If a town
 #### Make friends & allies
 Diplomacy is critical.  As a mayor, diplomacy can be the difference between your town remaining independant, within a friendly nation, or occupied by an expansionistic empire. As a king, diplomacy can be the difference between your nation succeeding, and its annihilation.
 
-#### You are not entitled to power
-As a king, your claim to power will be tested. Defend your nation's towns to prove yourself a true nation leader.
+#### Make friends & allies
+Diplomacy is critical.  As a mayor, diplomacy can be the difference between your town remaining independant, within a friendly nation, or occupied by an expansionistic empire. As a king, diplomacy can be the difference between your nation succeeding, and its annihilation.
+
+#### Do not remove guards while the town is under siege
+As a mayor, while your town is under siege, do not remove guards by any means. If this occurs, a siege-point penalty will be applied.  
+
+#### Do not remove soldiers while sieges are in progress
+As a king, while you OR your allies have in-progress sieges, do not remove soldiers by any means. If this occurs, a siege-point penalty will be applied at each of the sieges.  
 
 ## Economy
 
