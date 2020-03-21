@@ -202,3 +202,9 @@ It is possible to travel to the Moon by a rocket that you can purchase with `/ro
 - /tr [message] - Join or send a message in trade channel.
 - /msg - Send a private message to a player.
 - /ignore - Block messages from a player.
+
+## Ranks
+
+### Gladia
+
+### Nova
