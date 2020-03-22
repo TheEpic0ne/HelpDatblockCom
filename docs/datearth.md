@@ -189,37 +189,6 @@ It is possible to travel to the Moon by a rocket that you can purchase with `/ro
 ## Ranks
 Support the development of Datearth and earn some neat perks at [shop.datblock.com](https://shop.datblock.com). We strive to keep the perks fair while giving those that support the server something nice in return. The perks are meant to be bonuses for our supporters as a thank you for making Datearth possible for everyone.
 
-### Gladia
-
-| Perks | VIP | VIP+ | VIP++ | MVP | MVP+ | MVP++ | ROYAL |
-| ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | 
-| Get more money when voting. | $75 | $100 | $125 | $150 | $175 | $200 | $250 |
-| Get more gold when voting. | 2G | 3G | 4G | 6G | 8G | 10G | 15G |
-| Be able to create more shops. | 15 | 20 | 25 | 30 | 40 | 50 | 100 |
-| Join when the server is full. | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ |
-| Get access to the gold shop. | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ |
-| Toggle night vision with /nv. |  | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ |
-| Sort your inventory with /invsort. |  | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ |
-| Express yourself with /emotes. |  | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ |
-| Sort your chests with /chestsort. |  |  | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ |
-| Color sign text with color codes. |  |  | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ |
-| Send mail with /mail send. |  |  |  | ✔️ | ✔️ | ✔️ | ✔️ |
-| Sort inv. into chests with /unload. |  |  |  | ✔️ | ✔️ | ✔️ | ✔️ |
-| Open a crafting table with /craft. |  |  |  | ✔️ | ✔️ | ✔️ | ✔️ |
-| Keep your experience on death. |  |  |  |  | ✔️ | ✔️ | ✔️ |
-| Put inv. into chest with /dump. |  |  |  |  | ✔️ | ✔️ | ✔️ |
-| Repair an item with /fix once a day. |  |  |  |  | ✔️ | ✔️ | ✔️ |
-| Non-combat fly in your town with /tfly. |  |  |  |  |  | ✔️ | ✔️ |
-| Play music within an area with /music. |  |  |  |  |  | ✔️ | ✔️ |
-| Change your display name with /nick. |  |  |  |  |  | ✔️ | ✔️ |
-| Replenish your hunger with /feed. |  |  |  |  |  |  | ✔️ |
-| Equip an item as a hat with /hat. |  |  |  |  |  |  | ✔️ |
-| Open your ender chest with /echest. |  |  |  |  |  |  | ✔️ |
-
-### Nova
-
-### Elysia
-
 | Perks | VIP | VIP+ | VIP++ | MVP | MVP+ | MVP++ | ROYAL |
 | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | 
 | Get more money when voting. | $75 | $100 | $125 | $150 | $175 | $200 | $250 |
