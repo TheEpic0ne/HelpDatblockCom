@@ -6,11 +6,11 @@ Geopolitcs on a world map with nations, diplomacy, and war! There are three worl
 
 ## Towns
 
-You can create a new town with `/t new` for $2000. A town can claim territory with `/t claim` for $200 per chunk. Residents are protected from outsiders in the town's territory unless their nation is at war. You can view all town commands with `/t ?`.
+Create a town with `/t new` for $2000. A town can claim territory with `/t claim` for $200 per chunk. Residents are protected from outsiders in the town's territory unless their at war. You can view all town commands with `/t ?`.
 
 ## Nations
 
-A nation is a collection of united towns. A nation has a capital town whose mayor is the leader of the nation. You can create a nation with `/n new` for $20000. Being in a nation comes with benefits such as being able to teleport to each town in the nation, making trade and travel easier. You can view all nation commands with `/n ?`.
+A nation is a collection of united towns. A nation has a capital town whose mayor is the leader of the nation. Create a nation with `/n new` for $20000. Being in a nation comes with benefits such as being able to teleport to each town in the nation, making trade and travel easier. You can view all nation commands with `/n ?`.
 
 ## War
 
