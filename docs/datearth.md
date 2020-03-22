@@ -1,6 +1,6 @@
 # Datearth
 
-Geopolitcs on a world map with nations, diplomacy, and war! There are three worlds to play on. [Gladia](https://gladia.datearth.com), the ancient warfare world, [Nova](https://nova.datearth.com), the modern warfare world, and [Elysia](https://nova.datearth.com), the peaceful world.
+Geopolitcs on a world map with nations, diplomacy, and war! There are three worlds: [Gladia](https://gladia.datearth.com), the ancient warfare world, [Nova](https://nova.datearth.com), the modern warfare world, and [Elysia](https://nova.datearth.com), the peaceful world.
 
 ![image](_images/gladia.png)
 
