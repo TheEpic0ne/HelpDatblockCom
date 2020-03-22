@@ -211,9 +211,9 @@ It is possible to travel to the Moon by a rocket that you can purchase with `/ro
 ### 1. Cheating
 
 Players are normally banned 7 to 30 days for their first offense of breaking a cheating rule and on the second offense banned for 30 days or permanently. A player may be banned up to 30 days or permanently on their first offense if severe damage is caused to the server or another player.
-1.1 No client modifications that give an advantage. Modifications for pure aesthetics, armor and effects HUD, maps that don't display more than live map, or reducing client lag are allowed, like Optifine.
 
-    Xray and hack client cheats, like increased speed, fly, kill aura is punished by 30 days to permanent ban on first offense.
+1.1 No client modifications that give an advantage. Modifications for pure aesthetics, armor and effects HUD, maps that don't display more than live map, or reducing client lag are allowed, like Optifine.
+- Xray and hack client cheats, like increased speed, fly, kill aura is punished by 30 days to permanent ban on first offense.
 
 1.2 No abusing bugs that give an advantage. Bugs must be reported to staff privately.
 
