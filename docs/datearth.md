@@ -1,10 +1,10 @@
 # Datearth
 
-Datearth is a geopolitical Minecraft server with a 1:1000 earth map where towns and nations strive for power with war and diplomacy. The server is on 1.13.2 but compatible upwards to the latest Minecraft version. 
+Datearth is a geopolitical Minecraft server with an earth map where towns and nations strive for power with war and diplomacy.
 
 ![image](_images/gladia.png)
 
-Live map of Gladia at [gladia.datearth.com](https://gladia.datearth.com) and Nova at [nova.datearth.com](https://nova.datearth.com).
+Live map of Gladia, the ancient warfare world, at [gladia.datearth.com](https://gladia.datearth.com), Nova, the modern warfare world, at [nova.datearth.com](https://nova.datearth.com), and Elysia, the peaceful world, at [elysia.datearth.com](https://nova.datearth.com)..
 
 
 ## Towns
