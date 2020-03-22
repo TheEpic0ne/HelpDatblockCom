@@ -205,3 +205,123 @@ It is possible to travel to the Moon by a rocket that you can purchase with `/ro
 ### Gladia
 
 ### Nova
+
+## Rules
+
+### 1. Cheating
+
+Players are normally banned 7 to 30 days for their first offense of breaking a cheating rule and on the second offense banned for 30 days or permanently. A player may be banned up to 30 days or permanently on their first offense if severe damage is caused to the server or another player.
+1.1 No client modifications that give an advantage. Modifications for pure aesthetics, armor and effects HUD, maps that don't display more than live map, or reducing client lag are allowed, like Optifine.
+
+    Xray and hack client cheats, like increased speed, fly, kill aura is punished by 30 days to permanent ban on first offense.
+
+1.2 No abusing bugs that give an advantage. Bugs must be reported to staff privately.
+
+1.3 No non-human activity, like auto clicking for fishing. You must be able to respond to a staff member.
+
+1.4 A player may only have one minecraft account on the server.
+
+### 2. Gameplay Behavior
+
+Players are normally warned for their first offense of breaking a gameplay behavior rule and on the second offense banned 1 to 7 days. A player may be banned up to 30 days or permanently on their first offense if severe damage is caused to the server or another player.
+
+2.1 No bypassing AFK kick, like using an AFK pool.
+
+2.2 No targeting or jailing players that joined less than 2 days ago. Use /resident to check their join date. If a new player is targeting you, you may defend yourself. Being kind to new players is a good courtesy and encouraged.
+
+2.3 No nonreciprocal killing of the same player more than twice within 24 hours if not at war with them, unless they are going near you, going near your claims, or attacking an ally. This rule only applies to the overworld.
+
+2.4 No killing sprees, where you kill more than 5 players within an hour, unless the player is at war with you. This rule only applies to the overworld.
+
+2.5 No camping, where you camp a town for longer than 15 minutes.
+
+2.6 Stealing, like taking a player's items, animals in a town, or from containers is allowed. It is the responsibility of the player to protect their items.
+
+2.7 Scamming, like not trading fairly is allowed. It is the responsibility of the player to build trust and be careful of others.
+
+2.8 Do not settle within 10 chunks of another town's border without their permission. Your town may be removed.
+
+2.9 If a mayor of a town is inactive for more than 2 weeks, players may request by a ticket to be granted mayorship of the town. Residents of the town have first priority and residents within the same nation have second priority to be granted mayorship of the town. A town is automatically deleted after 30 days if no residents are active in the town and any player may reclaim the town after deletion.
+
+2.10 No nether portal trapping, do not block up portals in a way where a player can't access commands by being stuck in the nether portal animation.
+
+2.11 No heavy redstone use and slime block planes.
+
+### 3. Player Behavior
+
+Players are normally warned for their first offense of breaking a player behavior rule and on the second offense muted if chat related or banned 1 to 7 days if non-chat related. A player may be banned up to 30 days or permanently on their first offense if severe damage is caused to the server or another player.
+
+3.1 English only in the global channel.
+
+3.2 No spamming, like repeatedly advertising trades or flooding the chat.
+
+3.3 No cursing or bypassing the chat filter. Keep it appropriate for everyone.
+
+3.4 No harmful, abusive, or inappropriate expressions in chat, signs, skins, or buildings. This includes name-calling, insulting, bullying, harrashment, hate speech, discrimination, obscene content, talking or threatening about self-harm, encouraging violence or hatred towards others.
+
+3.6 No references to Nazi Germany, the Soviet Union, and the Islamic State, like Swastikas, Soviet Sickles.
+
+3.7 No sharing others' personal information, like IP, name, email, phone number.
+
+3.8 No misleading and baiting a player to type a command, like /suicide.
+
+3.9 Do not accuse rule-breakers publicly, report with /report or make a ticket at disc.datblock.com.
+
+3.10 Do not discuss, disagree or appeal a staff action publicly, make a ticket a disc.datblock.com. You may only appeal bans and not warns or mutes.
+
+### 4. Griefing
+
+Players are normally banned 1 to 7 days for their first offense of breaking a griefing rule if it has caused great damage and on the second offense banned 7 to 30 days. If the grief has caused minor damage, the player may be warned for their first offense and on the second offense banned 1 to 7 days. A player may be banned up to 30 days or permanently on their first offense if severe damage is caused to the server or another player.
+
+4.1 No griefing, like destroying buildings or placing blocks in a mess. You may only break valuable blocks, crops, and containers from unclaimed towns. Valuable blocks are ore and mineral blocks, enchanting tables, bookshelves, beacons, conduits, enderchests, anvils and brewing stands. A fallen town may be freely broken down, be taken, or be requested to be removed by staff. Be sure it is a fallen town and not a town being settled. Buildings in the nether and the end may be broken down at any time and are not proteced from griefing.
+
+4.2 No building outside of claims, except minor building outside of your own town or when settling a new town where the settlers have 7 days to claim the land. Make a ticket at disc.datblock.com if you want an unlawful building in unclaimed land to be removed.
+
+4.3 No Modifying terrain nearby other claims (10 chunks), except your own claims on a minor scale that does not look unnatural.
+
+4.4 No claiming or making outposts nearby or around other claims (10 chunks) without permission, or claiming in an obnoxious manner like a straight line.
+
+4.5 Players must conserve the world map terrain. No major harvesting and terraforming like taking down mountains, draining, flooding with lava or water, placing random blocks, deforestation, digging holes, and flattening large areas without intent to build.
+
+4.6 No cobble monsters, faction-like bases, pixel art or any form of building that stands out from the towns and nation building lore.
+
+4.7 No building on the water with exceptions like Venice, canals, and minor builds in bays and rivers. Make a ticket at disc.datblock.com to request permission to build on water.
+
+4.8 Mass spawning entities like boats is not allowed.
+
+### 5. Naming
+
+Players are normally not punished for breaking a naming rule but may be depending on the severity. Staff may at any given time change a town or nation name for any reason staff deems reasonable. Make a ticket at disc.datblock.com for rule exceptions and if you're unsure whether a name is allowed.
+5.1 Nation Naming
+
+    Nation name has to be the same as current or past nations that correspond with where the capital is located on the world map.
+    Nations can't be named identically to already existing nations on the server.
+    Nations can't be named after unions, alliances, regions, oceans, or after a continent.
+
+5.2 Town Naming
+
+    Town names may be fictional but must have a connection to where the town is located and must sound like a realistic town name.
+    Towns can't be named identically to already existing towns on the server.
+
+5.3 Any inappropriate, offensive, explicit or racist naming is not allowed anywhere.
+
+### 6. War
+
+Players are normally warned for their first offense of breaking a war rule and on the second offense banned 1 to 7 days. A player may be banned up to 30 days or permanently on their first offense if severe damage is caused to the server or another player.
+
+6.1 No purposely being killed by enemies to increase their score.
+
+### 7. Miscellaneous
+
+7.1 Intentionally crashing the server or producing lag will result in a permanent ban.
+7.2 Advertising other servers or products is not allowed.
+
+    Advertisers deemed as only being on the server to advertise will be permanently banned.
+
+7.3 Real world traders for services and items will be permanently banned.
+
+### 8. Staff
+
+8.1 If a player makes a ticket to appeal their ban, the staff that banned the player may not make any final judgments for the appeal but only provide arguments and evidence for the reasoning of giving the ban.
+
+8.2 If a player makes a ticket to report staff abuse, the staff member that is accussed of staff abuse may not make any judgments for the report but only provide arguments and evidence. The report must be seen by a minimun of two admins before a judgement is made. If you have suspicion of staff abuse but do not have any evidence, you may privately message @Lambsauce#0001 at disc.datblock.com.
