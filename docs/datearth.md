@@ -168,10 +168,11 @@ It is possible to travel to the Moon by a rocket that you can purchase with `/ro
 - /balance - Check your money balance.
 - /baltop - View the top balances.
 - /trade - Request to trade with a player.
-- /weapons - Opens the weapon shop (modern warfare only).
-- /vehicles - Opens the vehicle shop (modern warfare only).
-- /garage - Opens your vehicle garage. (modern warfare only).
-- /rocket - Purchase a space rocket (modern warfare only).
+- /weapons - Opens the weapon shop (Nova only).
+- /vehicles - Opens the vehicle shop (Nova only).
+- /garage - Opens your vehicle garage. (Nova only).
+- /rocket - Purchase a space rocket (Nova only).
+- /pvp - Toggle personal PvP status (Elysia only).
 
 #### Chat
 - /channel - View channel commands.
