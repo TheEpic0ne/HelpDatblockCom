@@ -187,6 +187,7 @@ It is possible to travel to the Moon by a rocket that you can purchase with `/ro
 - /ignore - Block messages from a player.
 
 ## Ranks
+Support the development of Datearth and earn some neat perks at [shop.datblock.com](https://shop.datblock.com). We strive to keep the perks fair while giving those that support the server something nice in return. The perks are meant to be bonuses for our supporters as a thank you for making Datearth possible for everyone.
 
 ### Gladia
 
