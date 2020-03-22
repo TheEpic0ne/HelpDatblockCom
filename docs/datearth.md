@@ -292,16 +292,15 @@ Players are normally banned 1 to 7 days for their first offense of breaking a gr
 ### 5. Naming
 
 Players are normally not punished for breaking a naming rule but may be depending on the severity. Staff may at any given time change a town or nation name for any reason staff deems reasonable. Make a ticket at disc.datblock.com for rule exceptions and if you're unsure whether a name is allowed.
-5.1 Nation Naming
 
-    Nation name has to be the same as current or past nations that correspond with where the capital is located on the world map.
-    Nations can't be named identically to already existing nations on the server.
-    Nations can't be named after unions, alliances, regions, oceans, or after a continent.
+5.1 Nation Naming
+- Nation name has to be the same as current or past nations that correspond with where the capital is located on the world map.
+- Nations can't be named identically to already existing nations on the server.
+- Nations can't be named after unions, alliances, regions, oceans, or after a continent.
 
 5.2 Town Naming
-
-    Town names may be fictional but must have a connection to where the town is located and must sound like a realistic town name.
-    Towns can't be named identically to already existing towns on the server.
+- Town names may be fictional but must have a connection to where the town is located and must sound like a realistic town name.
+- Towns can't be named identically to already existing towns on the server.
 
 5.3 Any inappropriate, offensive, explicit or racist naming is not allowed anywhere.
 
@@ -314,9 +313,9 @@ Players are normally warned for their first offense of breaking a war rule and o
 ### 7. Miscellaneous
 
 7.1 Intentionally crashing the server or producing lag will result in a permanent ban.
-7.2 Advertising other servers or products is not allowed.
 
-    Advertisers deemed as only being on the server to advertise will be permanently banned.
+7.2 Advertising other servers or products is not allowed.
+- Advertisers deemed as only being on the server to advertise will be permanently banned.
 
 7.3 Real world traders for services and items will be permanently banned.
 
