@@ -1,11 +1,8 @@
 # Datearth
 
-Datearth is a geopolitical Minecraft server with an earth map where towns and nations strive for power with war and diplomacy.
+Geopolitcs on a world map with nations, diplomacy, and war! There are three worlds to play on. [Gladia](https://gladia.datearth.com), the ancient warfare world, [Nova](https://nova.datearth.com), the modern warfare world, and [Elysia](https://nova.datearth.com), the peaceful world.
 
 ![image](_images/gladia.png)
-
-There are three worlds to play on. [Gladia](https://gladia.datearth.com), the ancient warfare world, [Nova](https://nova.datearth.com), the modern warfare world, and [Elysia](https://nova.datearth.com), the peaceful world.
-
 
 ## Towns
 
