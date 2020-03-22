@@ -76,20 +76,6 @@ As a mayor, when a 7 days has passed after an invasion, the town can revolt and 
 #### Nation deletion
 As a king, if your nation gets deleted for any reason, including capture of your last town, you will be refunded 50% of the initial cost of creating the nation. This can be triggered voluntarily using `/n delete`.
 
-### Rules
-
-#### Neutral is neutral
-Neutral towns may not participate in any wars such as helping a nation with a siege. Residents in a neutral town participating in a war will be punished and the town may lose its right to neutrality. This also applies to residents that are not an official ally with the nations at war. If you are not related to a war, you should not approach the siege zone.
-
-#### Looting towns
-If a town enters a ruined state, the town may be looted of containers and valuable blocks. Valuable blocks are ore and mineral blocks, enchanting tables, bookshelves, beacons, conduits, ender chests, anvils, and brewing stands. Blocks can be destroyed in ruined towns, but blocks may only be broken to get through barriers such as doors or walls to valuables. Any excessive or unnecessary breaking will be punished. The ruined state lasts 24 hours whereafter the town is fully deleted. The first to claim the town again is the rightful owner of the town.
-
-#### Defences in wilderness
-The attacking nation is allowed to construct small walls at the siege zone to protect themselves from ranged attacks. It is not allowed to build any construction that hinders reaching the siege zone or players in the zone.
-
-#### Fair wars
-Any use of bugs or unintended behavior to gain an advantage in a siege will be punished. Use common sense or ask staff if unsure.
-
 ### Tips
 
 #### Fortify towns
@@ -308,7 +294,14 @@ Players are normally not punished for breaking a naming rule but may be dependin
 
 Players are normally warned for their first offense of breaking a war rule and on the second offense banned 1 to 7 days. A player may be banned up to 30 days or permanently on their first offense if severe damage is caused to the server or another player.
 
-6.1 No purposely being killed by enemies to increase their score.
+
+6.1 Neutral is neutral. Neutral towns may not participate in any wars such as helping a nation with a siege. Residents in a neutral town participating in a war will be punished and the town may lose its right to neutrality. This also applies to residents that are not an official ally with the nations at war. If you are not related to a war, you should not approach the siege zone.
+
+6.2 Looting towns. If a town enters a ruined state, the town may be looted of containers and valuable blocks. Valuable blocks are ore and mineral blocks, enchanting tables, bookshelves, beacons, conduits, ender chests, anvils, and brewing stands. Blocks can be destroyed in ruined towns, but blocks may only be broken to get through barriers such as doors or walls to valuables. Any excessive or unnecessary breaking will be punished. The ruined state lasts 24 hours whereafter the town is fully deleted. The first to claim the town again is the rightful owner of the town.
+
+6.3. Defences in wilderness. The attacking nation is allowed to construct small walls at the siege zone to protect themselves from ranged attacks. It is not allowed to build any construction that hinders reaching the siege zone or players in the zone.
+
+6.4 Fair wars. Any use of bugs or unintended behavior to gain an advantage in a siege will be punished. Use common sense or ask staff if unsure.
 
 ### 7. Miscellaneous
 
