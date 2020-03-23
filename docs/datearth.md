@@ -217,7 +217,7 @@ Support the development of Datearth and earn some neat perks at [shop.datblock.c
 
 ## Rules
 
-### 1. Cheating
+### Cheating
 
 Players are normally banned 7 to 30 days for their first offense of breaking a cheating rule and on the second offense banned for 30 days or permanently. A player may be banned up to 30 days or permanently on their first offense if severe damage is caused to the server or another player.
 
@@ -230,7 +230,7 @@ Players are normally banned 7 to 30 days for their first offense of breaking a c
 
 1.4 A player may only have one minecraft account on the server.
 
-### 2. Gameplay Behavior
+### Gameplay Behavior
 
 Players are normally warned for their first offense of breaking a gameplay behavior rule and on the second offense banned 1 to 7 days. A player may be banned up to 30 days or permanently on their first offense if severe damage is caused to the server or another player.
 
@@ -256,7 +256,7 @@ Players are normally warned for their first offense of breaking a gameplay behav
 
 2.11 No heavy redstone use and slime block planes.
 
-### 3. Player Behavior
+### Player Behavior
 
 Players are normally warned for their first offense of breaking a player behavior rule and on the second offense muted if chat related or banned 1 to 7 days if non-chat related. A player may be banned up to 30 days or permanently on their first offense if severe damage is caused to the server or another player.
 
@@ -278,7 +278,7 @@ Players are normally warned for their first offense of breaking a player behavio
 
 3.10 Do not discuss, disagree or appeal a staff action publicly, make a ticket a disc.datblock.com. You may only appeal bans and not warns or mutes.
 
-### 4. Griefing
+### Griefing
 
 Players are normally banned 1 to 7 days for their first offense of breaking a griefing rule if it has caused great damage and on the second offense banned 7 to 30 days. If the grief has caused minor damage, the player may be warned for their first offense and on the second offense banned 1 to 7 days. A player may be banned up to 30 days or permanently on their first offense if severe damage is caused to the server or another player.
 
@@ -298,7 +298,7 @@ Players are normally banned 1 to 7 days for their first offense of breaking a gr
 
 4.8 Mass spawning entities like boats is not allowed.
 
-### 5. Naming
+### Naming
 
 Players are normally not punished for breaking a naming rule but may be depending on the severity. Staff may at any given time change a town or nation name for any reason staff deems reasonable. Make a ticket at disc.datblock.com for rule exceptions and if you're unsure whether a name is allowed.
 
@@ -313,7 +313,7 @@ Players are normally not punished for breaking a naming rule but may be dependin
 
 5.3 Any inappropriate, offensive, explicit or racist naming is not allowed anywhere.
 
-### 6. War
+### War
 
 Players are normally warned for their first offense of breaking a war rule and on the second offense banned 1 to 7 days. A player may be banned up to 30 days or permanently on their first offense if severe damage is caused to the server or another player.
 
@@ -326,7 +326,7 @@ Players are normally warned for their first offense of breaking a war rule and o
 
 6.4 Fair wars. Any use of bugs or unintended behavior to gain an advantage in a siege will be punished. Use common sense or ask staff if unsure.
 
-### 7. Miscellaneous
+### Miscellaneous
 
 7.1 Intentionally crashing the server or producing lag will result in a permanent ban.
 
@@ -335,7 +335,7 @@ Players are normally warned for their first offense of breaking a war rule and o
 
 7.3 Real world traders for services and items will be permanently banned.
 
-### 8. Staff
+### Staff
 
 8.1 If a player makes a ticket to appeal their ban, the staff that banned the player may not make any final judgments for the appeal but only provide arguments and evidence for the reasoning of giving the ban.
 
