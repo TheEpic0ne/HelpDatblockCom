@@ -56,11 +56,15 @@ No griefing other player's creations.
 
 No killing other players without their permission.
 
+No selling fake items by renaming items.
+
 ## Skyblock
 
 No griefing other player's creations.
 
 No killing other players without their permission.
+
+No selling fake items by renaming items.
 
 ## Creative
 
