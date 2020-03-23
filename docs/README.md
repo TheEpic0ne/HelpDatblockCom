@@ -1,10 +1,10 @@
 # Welcome to Datblock Help!
-Here you can learn more about the Datblock Minecraft network. Choose a category in the left sidebar.
+Here you can learn more about the Datblock network. Choose a category in the left sidebar.
 
 **Server IP:** `Play.datblock.com`
 
-## Discord
+# Discord
 Join our Discord community at [disc.datblock.com](https://disc.datblock.com/) for chat, news, and more.
 
-## Shop
+# Shop
 Support us at [shop.datblock.com](https://shop.datblock.com/) and upgrade your player experience.
