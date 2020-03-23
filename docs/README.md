@@ -1,5 +1,5 @@
 # Welcome to Datblock Help!
-Here you can learn more about the Datblock network. Choose a category in the left sidebar.
+Here you can learn more about the Datblock Minecraft network. Choose a category in the left sidebar.
 
 **Server IP:** `Play.datblock.com`
 
