@@ -3,3 +3,6 @@ Here you can learn more about the Datblock network and our gamemodes. You can ch
 
 ### Discord
 Join our Discord community at [disc.datblock.com](https://disc.datblock.com/) for chat, news, and more.
+
+### Shop
+Support us and upgrade your player experience at [shop.datblock.com](https://shop.datblock.com/).
