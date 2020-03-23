@@ -4,7 +4,7 @@ Rules are in place to ensure a fair and enjoyable experience for everyone. Rules
 
 ## Global
 
-### 1. Cheating
+### Cheating
 
 1.1 No client modifications that give an advantage. Modifications for pure aesthetics, armor and effects HUD, maps that don't display more than live map, or reducing client lag are allowed, like Optifine.
 
@@ -14,7 +14,7 @@ Rules are in place to ensure a fair and enjoyable experience for everyone. Rules
 
 1.4 A player may only have one minecraft account on the server.
 
-### 2. Gameplay Behavior
+### Gameplay Behavior
 
 2.1 No bypassing AFK kick, like using an AFK pool.
 
@@ -22,7 +22,7 @@ Rules are in place to ensure a fair and enjoyable experience for everyone. Rules
 
 2.3 No heavy redstone use and slime block planes.
 
-### 3. Player Behavior
+### Player Behavior
 
 3.1 English only in public chats.
 
@@ -42,7 +42,7 @@ Rules are in place to ensure a fair and enjoyable experience for everyone. Rules
 
 3.10 Do not discuss, disagree or appeal a staff action publicly, make a ticket a disc.datblock.com. You may only appeal bans and not warns or mutes.
 
-### 4. Miscellaneous
+### Miscellaneous
 
 4.1 No intentionally crashing the server or producing lag.
 
@@ -67,7 +67,3 @@ No killing other players without their permission.
 No griefing other player's creations.
 
 No killing other players without their permission.
-
-## Datearth
-
-[Datearth.com/rules](https://datearth.com/rules)
