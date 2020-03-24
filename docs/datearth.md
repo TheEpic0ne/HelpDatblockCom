@@ -199,7 +199,7 @@ Support the development of Datearth and earn some neat perks at [shop.datblock.c
 | Get access to the gold shop. | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ |
 | Toggle night vision with /nv. |  | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ |
 | Sort your inventory with /invsort. |  | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ |
-| Express yourself with /emotes. |  | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ |
+| Express yourself with /emotes. |  |  | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ |
 | Sort your chests with /chestsort. |  |  | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ |
 | Color sign text with color codes. |  |  | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ |
 | Send mail with /mail send. |  |  |  | ✔️ | ✔️ | ✔️ | ✔️ |
