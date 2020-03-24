@@ -210,6 +210,7 @@ Support the development of Datearth and earn some neat perks at [shop.datblock.c
 | Repair an item with /fix once a day. |  |  |  |  | ✔️ | ✔️ | ✔️ |
 | Non-combat fly in your town with /tfly. |  |  |  |  |  | ✔️ | ✔️ |
 | Play music within an area with /music. |  |  |  |  |  | ✔️ | ✔️ |
+| Change color of firearm with /skins. |  |  |  |  |  | ✔️ | ✔️ |
 | Change your display name with /nick. |  |  |  |  |  | ✔️ | ✔️ |
 | Replenish your hunger with /feed. |  |  |  |  |  |  | ✔️ |
 | Equip an item as a hat with /hat. |  |  |  |  |  |  | ✔️ |
