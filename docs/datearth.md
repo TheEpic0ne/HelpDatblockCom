@@ -257,6 +257,8 @@ Players are normally warned for their first offense of breaking a gameplay behav
 
 2.11 No heavy redstone use and slime block planes.
 
+2.12 No building or claimin within the spawning zone in Africa.
+
 ### Player Behavior
 
 Players are normally warned for their first offense of breaking a player behavior rule and on the second offense muted if chat related or banned 1 to 7 days if non-chat related. A player may be banned up to 30 days or permanently on their first offense if severe damage is caused to the server or another player.
