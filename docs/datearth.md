@@ -257,7 +257,7 @@ Players are normally warned for their first offense of breaking a gameplay behav
 
 2.11 No heavy redstone use and slime block planes.
 
-2.12 No building or claimin within the spawning zone in Africa.
+2.12 No building or claiming within the spawning zone in Africa.
 
 ### Player Behavior
 
