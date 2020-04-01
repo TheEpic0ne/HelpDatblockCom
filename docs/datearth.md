@@ -34,7 +34,9 @@ As an attacker or a defender with a military rank, kill enemy players within a 1
 
 #### Military ranks
 
-The military ranks for towns are guard, sheriff, and mayor. The military ranks for nations are soldier, general, and king. 
+The military ranks for towns are guard, sheriff, and mayor. The military ranks for nations are soldier, captain, general, and king. 
+
+Military ranked nation players of captain rank and above gain a leadership aura. If a military leader dies in a siege, then points loss in increased by 50%. If a friendly military leader is nearby when a soldier dies in a siege, then points loss is reduced by 20%. If an enemy military leader is nearby when a soldier dies in a siege, then points loss is increased by 20%.
 
 *Notice!* Changing ranks or ally relations while residents in your town, nation, or allied nation are in the siege zone, will penalize your town or nation in points in the siege.
 
