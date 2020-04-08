@@ -26,11 +26,15 @@ A nation can have a maximum of 3 active sieges at once.
 
 The town under siege has a score shown in `/t` that will determine the siege winner. The attacking nation requires a positive score to win and the defending town requires a negative score to win. A siege lasts 3 days and a timer is shown in `/t` for the town under siege.
 
-#### Occupying
-As an attacker or a defender with a military rank, occupy the wilderness area within 16 blocks of the siege banner to increase or decrease the score by 5 points every 20 seconds occupied. Up to 3 players per side can score timed siege points at once. After 10 minutes while remaining in the siege zone, to resume scoring points, the player will need to exit then re-enter the siege zone. For every 1000 points ahead, the winner side gets 20% less points and the loser side gets 20% points extra. All residents in the nation and allies with a military rank can contribute to the score. 
+#### Banner control
+As an military-ranked attacked or defender, gain banner control for your side, by remaining alive and close to the the siege banner for 10 minutes. Once your side has banner control, siege points will be awarded automatically every 20 seconds
 
 #### Killing
 As an attacker or a defender with a military rank, kill enemy players within a 150 block radius of the siege banner to increase or decrease the score by 500 points. Allies with a military rank can contribute. All residents in the nation and allies with a military rank can contribute to the score.
+
+#### Tactical Visibility
+
+Kings and Generals are always visible on the dynmap. Any player pillaging at the banner is always visible on the map. Other military-ranked players can simply equip a compass or shield in their off-hand, to disappear from the map. Other players remain visible on the map.
 
 #### Military ranks
 
