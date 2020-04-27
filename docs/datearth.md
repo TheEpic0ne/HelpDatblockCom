@@ -229,9 +229,9 @@ Support the development of Datearth and earn some neat perks at [shop.datblock.c
 Players are normally banned 7 to 30 days for their first offense of breaking a cheating rule and on the second offense banned for 30 days or permanently. A player may be banned up to 30 days or permanently on their first offense if severe damage is caused to the server or another player.
 
 1.1 No client modifications that give an advantage. Modifications for pure aesthetics, armor and effects HUD, maps that don't display more than live map, or reducing client lag are allowed, like Optifine.
-- Xray and hack client cheats, like increased speed, fly, kill aura is punished by 30 days to permanent ban on first offense.
+- Xray and hack client cheats, like increased speed, fly, kill aura is punished by 14 days on first offense, 30 days on second, and a permanent ban for the third offense.
 
-1.2 No abusing bugs that give an advantage. Bugs must be reported to staff privately.
+1.2 No abusing bugs that give an advantage, this includes block and door glitching. Bugs must be reported to staff privately
 
 1.3 No non-human activity, like auto clicking for fishing. You must be able to respond to a staff member.
 
@@ -245,25 +245,36 @@ Players are normally warned for their first offense of breaking a gameplay behav
 
 2.2 No targeting or jailing players that joined less than 2 days ago. Use /resident to check their join date. If a new player is targeting you, you may defend yourself. Being kind to new players is a good courtesy and encouraged.
 
-2.3 No nonreciprocal killing of the same player more than twice within 24 hours if not at war with them, unless they are going near you, going near your claims, or attacking an ally. This rule only applies to the overworld.
+2.3 No nonreciprocal killing of the same player more than twice within 24 hours if not at war with them, unless they are going near you, going near your claims, or attacking an ally. If the player is in your town, they must be told to leave before being killed a third time. This rule only applies to the overworld.
 
 2.4 No killing sprees, where you kill more than 5 players within an hour, unless the player is at war with you. This rule only applies to the overworld.
 
 2.5 No camping, where you camp a town for longer than 15 minutes.
 
-2.6 Stealing, like taking a player's items, animals in a town, or from containers is allowed. It is the responsibility of the player to protect their items.
+2.6 No spawnkilling of any kind. This includes but is not limited to unescapable traps, giant pits, toggling town pvp once a player spawns and camping the town spawn.
 
-2.7 Scamming, like not trading fairly is allowed. It is the responsibility of the player to build trust and be careful of others.
+2.7 No usage of lava buckets, or nuclear waste to kill a player inside town claims in order to bypass pvp.
 
-2.8 Do not settle within 10 chunks of another town's border without their permission. Your town may be removed.
+2.7 Stealing, like taking a player's items, animals in a town, or from containers is allowed. It is the responsibility of the player to protect their items.
 
-2.9 If a mayor of a town is inactive for more than 2 weeks, players may request by a ticket to be granted mayorship of the town. Residents of the town have first priority and residents within the same nation have second priority to be granted mayorship of the town. A town is automatically deleted after 30 days if no residents are active in the town and any player may reclaim the town after deletion.
+2.8 Scamming, like not trading fairly is allowed. It is the responsibility of the player to build trust and be careful of others.
 
-2.10 No nether portal trapping, do not block up portals in a way where a player can't access commands by being stuck in the nether portal animation.
+2.9 Do not settle within 10 chunks of another town's border without their permission. Your town may be removed.
 
-2.11 No heavy redstone use and slime block planes.
+2.12 Players may make a ticket to take over the mayorship of a town if the criteria is met. 
+If the mayor gives permission in a ticket to have mayorship transferred to another player, the following criteria do not apply. Otherwise, the town needs to suit these criteria:
+1. The town has to be in the same nation as the player.
+2. The mayor must be offline for at least fourteen days.
+3. Approval is given by the nation leader in the ticket or in game.
+Note that if the town is nationless, then criteria 1 and 3 do not have to apply. Also note that the town bank will be cleared and given to the original mayor.
 
-2.12 No building or claiming within the spawning zone in Africa.
+2.11 No nether portal trapping, do not block up portals in a way where a player can't access commands by being stuck in the nether portal animation.
+
+2.12 No heavy redstone use and slime block planes.
+
+2.13 No firing weapons at players whilst in any sort of vehicle.
+
+2.14 No abusing the permissions of comayor/coking to dismantle and destroy another person's nation.
 
 ### Player Behavior
 
@@ -277,9 +288,11 @@ Players are normally warned for their first offense of breaking a player behavio
 
 3.4 No harmful, abusive, or inappropriate expressions in chat, signs, skins, or buildings. This includes name-calling, insulting, bullying, harrashment, hate speech, discrimination, obscene content, talking or threatening about self-harm, encouraging violence or hatred towards others.
 
-3.6 No references to Nazi Germany, the Soviet Union, and the Islamic State, like Swastikas, Soviet Sickles.
+3.5 No references to Nazi Germany, the Soviet Union, and the Islamic State, like Swastikas, Soviet Sickles.
 
-3.7 No sharing others' personal information, like IP, name, email, phone number.
+3.6 No sharing others' personal information, like IP, name, email, phone number.
+
+3.7 Religious, Political, and any other possibly controversial topics are permitted to be discussed but must be kept civil.
 
 3.8 No misleading and baiting a player to type a command, like /suicide.
 
@@ -306,6 +319,8 @@ Players are normally banned 1 to 7 days for their first offense of breaking a gr
 4.7 No building on the water with exceptions like Venice, canals, and minor builds in bays and rivers. Make a ticket at disc.datblock.com to request permission to build on water.
 
 4.8 Mass spawning entities like boats is not allowed.
+
+4.9 Griefing infrastructure between towns such as railroads, iceways, roads, or canals is not permitted.
 
 ### Naming
 
@@ -344,8 +359,18 @@ Players are normally warned for their first offense of breaking a war rule and o
 
 7.3 Real world traders for services and items will be permanently banned.
 
+### Ticket Behavior
+
+8.1 Do not make unnecessary or "joke" tickets. This may result in the loss of the ability to create tickets.
+
+8.2 Please remain civil in tickets, insults and disrespect towards the staff member handling it will not be tolerated.
+
+8.3 Do not ping a staff member unless it is absolutely necessary or the staff member has asked you to do so.
+
+8.4 You are allowed to ask for a specific staff member to not participate in your ticket. To do so simply make your request at the start of the ticket. However, keep in mind 8.2.
+
 ### Staff
 
-8.1 If a player makes a ticket to appeal their ban, the staff that banned the player may not make any final judgments for the appeal but only provide arguments and evidence for the reasoning of giving the ban.
+9.1 If a player makes a ticket to appeal their ban, the staff that banned the player may not make any final judgments for the appeal but only provide arguments and evidence for the reasoning of giving the ban.
 
-8.2 If a player makes a ticket to report staff abuse, the staff member that is accussed of staff abuse may not make any judgments for the report but only provide arguments and evidence. The report must be seen by a minimun of two admins before a judgement is made. If you have suspicion of staff abuse but do not have any evidence, you may privately message @Lambsauce#0001 at disc.datblock.com.
+9.2 If a player makes a ticket to report staff abuse, the staff member that is accused of staff abuse may not make any judgments for the report but only provide arguments and evidence. The report must be seen by a minimum of two admins before a judgement is made. If you have suspicion of staff abuse but do not have any evidence, you may privately message @Lambsauce#0001 at disc.datblock.com.
