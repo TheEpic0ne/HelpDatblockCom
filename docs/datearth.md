@@ -259,7 +259,7 @@ Players are normally warned for their first offense of breaking a gameplay behav
 
 2.8 Scamming, like not trading fairly is allowed. It is the responsibility of the player to build trust and be careful of others.
 
-2.9 Do not settle within 10 chunks of another town's border without their permission. Your town may be removed.
+2.9 Do not settle/claim too close to other towns without their mayor's permission. Homeblocks must be separated by ten chunks, a new town's homeblock must be separated from already existing town claims by six chunks, and town claims must be separated by two chunks. These rules also apply to how outposts are allowed to be claimed.
 
 2.12 Players may make a ticket to take over the mayorship of a town if the criteria is met. 
 If the mayor gives permission in a ticket to have mayorship transferred to another player, the following criteria do not apply. Otherwise, the town needs to suit these criteria:
@@ -346,9 +346,11 @@ Players are normally warned for their first offense of breaking a war rule and o
 
 6.2 Looting towns. If a town enters a ruined state, the town may be looted of containers and valuable blocks. Valuable blocks are ore and mineral blocks, enchanting tables, bookshelves, beacons, conduits, ender chests, anvils, and brewing stands. Blocks can be destroyed in ruined towns, but blocks may only be broken to get through barriers such as doors or walls to valuables. Any excessive or unnecessary breaking will be punished. The ruined state lasts 24 hours whereafter the town is fully deleted. The first to claim the town again is the rightful owner of the town.
 
-6.3. Defences in wilderness. The attacking nation is allowed to construct small walls at the siege zone to protect themselves from ranged attacks. It is not allowed to build any construction that hinders reaching the siege zone or players in the zone.
+6.3 Defences in wilderness. The attacking nation is allowed to construct small walls at the siege zone to protect themselves from ranged attacks. It is not allowed to build any construction that hinders reaching the siege zone or players in the zone.
 
 6.4 Fair wars. Any use of bugs or unintended behavior to gain an advantage in a siege will be punished. Use common sense or ask staff if unsure.
+
+6.5 If you do not have a military rank, you are not allowed under any circumstances whatsoever to participate in a siege, meaning even accidental cases will be punished. 
 
 ### Miscellaneous
 
